@@ -1,0 +1,4 @@
+*.root
+*.log
+*.log5
+*.pyc
