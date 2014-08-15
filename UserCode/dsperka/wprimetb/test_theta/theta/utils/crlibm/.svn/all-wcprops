@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/public/theta/!svn/ver/185/tags/stable/crlibm
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/public/theta/!svn/ver/185/tags/stable/crlibm/log.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/public/theta/!svn/ver/185/tags/stable/crlibm/log.h
+END
+crlibm_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/public/theta/!svn/ver/185/tags/stable/crlibm/crlibm_private.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/public/theta/!svn/ver/185/tags/stable/crlibm/README
+END
+triple-double.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/public/theta/!svn/ver/185/tags/stable/crlibm/triple-double.h
+END
+crlibm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/public/theta/!svn/ver/185/tags/stable/crlibm/crlibm.h
+END

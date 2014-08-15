@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/public/theta/!svn/ver/185/tags/stable/bin
+END
+merge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/public/theta/!svn/ver/185/tags/stable/bin/merge.cpp
+END
+theta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/public/theta/!svn/ver/185/tags/stable/bin/theta.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/public/theta/!svn/ver/185/tags/stable/bin/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/public/theta/!svn/ver/185/tags/stable/bin/Makefile
+END

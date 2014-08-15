@@ -1,0 +1,18 @@
+
+Gena Kukartsev, January 29, 2013
+- LjetsTopoCalcNew: init mLegend, so printouts are identified
+- LjetsTopoCalcNew: added "debug" into the standard python config
+- ljmet.cc: send mPar (all params) to LjmetEventContent
+- LjmetEventContent: new constructor that takes map of parameter sets,
+  sets internal verbosity level
+- PileupCalc: added configurable verbosity level
+
+
+David Sperka, January 31, 2013
+- added 53X-style jet energy scale corrections
+
+
+Gena Kukartsev, January 31, 2013
+- Added possibility to store histograms to LjmetEventContent and EventSetup base
+
+

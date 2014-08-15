@@ -1,0 +1,83 @@
+cmake_minimum_required(VERSION 2.6)
+project(theta)
+set(CMAKE_VERBOSE_MAKEFILE, 1)
+
+option(coverage "build for coverage tests" OFF)
+option(profile "build for profiling" OFF)
+option(release "build release version" ON)
+option(amdlibm "use amdlibm instead of libm in some places" OFF)
+option(llvm "Build llvm plugins" OFF)
+option(generic "use generic implementation of funtions; not optimized, platform-specific ones" OFF)
+
+if(coverage)
+   message(STATUS "building for coverage test")
+   set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} --coverage -O0")
+elseif(profile)
+   message(STATUS "building for profiling")
+   set(CMAKE_BUILD_TYPE Release) # to enable optimizations
+   set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pg")
+   #set(CMAKE_LD_FLAGS "${CMAKE_LD_FLAGS} -pg")
+else()
+  if(release)
+     set(CMAKE_BUILD_TYPE Release)
+     string(FIND "${CMAKE_CXX_COMPILER}" "clang++" cl)
+     if(cl GREATER -1)
+        message(STATUS "found clang")
+        string(REPLACE "-O3" "-O4" CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE}")
+        string(REPLACE "-O3" "-O4" CMAKE_C_FLAGS_RELEASE "${CMAKE_C_FLAGS_RELEASE}")
+     endif()
+     message(STATUS "building release version")
+  else()
+     message(STATUS "building release version +debug")
+     set(CMAKE_BUILD_TYPE RelWithDebInfo)
+   endif()
+endif()
+
+if(amdlibm)
+   message(STATUS "using amdlibm")
+   add_definitions(-DUSE_AMDLIBM)
+   find_library(amdlibm_lib NAMES amdlibm HINTS "./lib/")
+   message("amdlibm_lib: ${amdlibm_lib}")
+endif()
+
+
+if(NOT generic)
+  enable_language(ASM-ATT)
+  if(NOT "${CMAKE_SYSTEM_PROCESSOR}" MATCHES "x86_64" OR NOT CMAKE_ASM-ATT_COMPILER_WORKS)
+      message(STATUS "non-optimized platform / assembler not working; enabling 'generic' option")
+      set(generic ON)
+  endif()
+endif()
+
+if(generic)
+   message(STATUS "using generic functions")
+   add_definitions(-DGENERIC_ARCH)
+else()
+   enable_language(ASM-ATT)
+endif()
+
+find_package(Boost COMPONENTS regex program_options filesystem system iostreams thread timer)
+
+if(NOT Boost_FOUND)
+   message(SEND_ERROR "boost not found")
+endif()
+
+include_directories(${Boost_INCLUDE_DIRS})
+include_directories(${CMAKE_SOURCE_DIR})
+
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+set(test_dir ${CMAKE_SOURCE_DIR}/test)
+
+add_subdirectory(src)
+add_subdirectory(plugins)
+add_subdirectory(libconfig)
+add_subdirectory(bin)
+add_subdirectory(root)
+
+if(llvm)
+   message(STATUS "including llvm")
+   add_subdirectory(llvm)
+endif()
+
+

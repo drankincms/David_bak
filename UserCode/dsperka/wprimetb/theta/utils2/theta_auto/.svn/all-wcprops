@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/public/theta/!svn/ver/302/tags/testing/utils2/theta_auto
+END
+bayesian.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/theta/!svn/ver/299/tags/testing/utils2/theta_auto/bayesian.py
+END
+asymptotic_cls.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/theta/!svn/ver/287/tags/testing/utils2/theta_auto/asymptotic_cls.py
+END
+readme-code-organization.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/theta/!svn/ver/277/tags/testing/utils2/theta_auto/readme-code-organization.txt
+END
+test_model.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/theta/!svn/ver/299/tags/testing/utils2/theta_auto/test_model.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/theta/!svn/ver/287/tags/testing/utils2/theta_auto/__init__.py
+END
+Model.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/public/theta/!svn/ver/302/tags/testing/utils2/theta_auto/Model.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/public/theta/!svn/ver/287/tags/testing/utils2/theta_auto/utils.py
+END
+cls_limits.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/theta/!svn/ver/284/tags/testing/utils2/theta_auto/cls_limits.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/public/theta/!svn/ver/279/tags/testing/utils2/theta_auto/config.py
+END
+frequentist.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/public/theta/!svn/ver/287/tags/testing/utils2/theta_auto/frequentist.py
+END
+Report.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/public/theta/!svn/ver/277/tags/testing/utils2/theta_auto/Report.py
+END
+plotutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/theta/!svn/ver/299/tags/testing/utils2/theta_auto/plotutil.py
+END
+model_summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/public/theta/!svn/ver/277/tags/testing/utils2/theta_auto/model_summary.py
+END
+likelihood.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/public/theta/!svn/ver/301/tags/testing/utils2/theta_auto/likelihood.py
+END
+higgs_datacard.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/theta/!svn/ver/302/tags/testing/utils2/theta_auto/higgs_datacard.py
+END
+theta_interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/theta/!svn/ver/301/tags/testing/utils2/theta_auto/theta_interface.py
+END
+Function.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/theta/!svn/ver/277/tags/testing/utils2/theta_auto/Function.py
+END

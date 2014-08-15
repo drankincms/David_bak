@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/public/theta/!svn/ver/185/tags/stable/gridpack
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/public/theta/!svn/ver/185/tags/stable/gridpack/build.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/public/theta/!svn/ver/185/tags/stable/gridpack/clean.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/public/theta/!svn/ver/185/tags/stable/gridpack/README
+END

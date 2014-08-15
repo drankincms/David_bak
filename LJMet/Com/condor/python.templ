@@ -1,0 +1,57 @@
+import FWCore.ParameterSet.Config as cms
+import FWCore.PythonUtilities.LumiList as LumiList
+import FWCore.ParameterSet.Types as CfgTypes
+
+ 
+process = cms.Process("FWLitePlots")
+
+process.metStudies = cms.PSet( 
+    pvSrc = cms.InputTag('offlinePrimaryVertices'),	
+    muonSrc = cms.InputTag('selectedPatMuons'),
+    jetSrc = cms.InputTag('selectedPatJets'),
+    #metSrc = cms.InputTag('METSOURCE'),
+    #metMuonSrc = cms.InputTag('metMuonJESCorAK5'),
+    metSrc = cms.InputTag('patMETs'),
+    metTCSrc = cms.InputTag('patMETsTC'),
+    metPFSrc = cms.InputTag('patMETsPF'),
+    metRecoPfSrc = cms.InputTag('metJESCorPFAK5'),
+    metMuonSrc = cms.InputTag('corMetGlobalMuons'),
+    metTypeIISrc = cms.InputTag('metMuonJESCorAK5'),
+    metRawSrc = cms.InputTag('met'),		
+    triggerSrc = cms.InputTag('patTrigger'),
+    BeamspotSrc  = cms.string('offlineBeamSpot'),
+    #HBHESrc = cms.string('HBHENoiseFilterResultProducer:HBHENoiseFilterResult'),
+    BeamHaloSrc = cms.string('BeamHaloSummary'),
+    GenParticleSrc = cms.string('prunedGenParticles')
+    )
+
+process.load('LJMet.Com.muonSelector_cfi')
+process.load('LJMet.Com.jetIDSelector_cfi')
+process.load('LJMet.Com.metSelector_cfi')
+process.load('LJMet.Com.pvSelector_cfi')
+
+
+process.plotParameters = cms.PSet (
+    useMC = cms.bool(False),
+    runs = cms.vint32([])
+)
+
+
+#
+#_____ Source ___________________________________________________________
+#
+
+CFISOURCE
+
+process.outputs = cms.PSet (
+      outputName = cms.string('DIRECTORY/PREFIX_JOBID.root')
+)
+
+
+process.maxEvents = cms.PSet (
+    number = cms.int32(EVENTSTOPROCESS)
+)
+
+# get JSON file correctly parced
+JSONfile = '/uscms/home/mike1886/test/CMSSW_3_8_4_patch2/src/LJMet/Com/crab/Cert_132440-149442_7TeV_StreamExpress_Collisions10_JSON.txt'
+myList = LumiList.LumiList (filename = JSONfile).getCMSSWString().split(',')

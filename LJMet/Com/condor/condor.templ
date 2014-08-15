@@ -1,0 +1,11 @@
+universe = vanilla
+Executable = DIRECTORY/PREFIX_JOBID.csh
+Requirements   =  OpSys == "LINUX" && (Arch =="INTEL" || Arch =="x86_64")
+Should_Transfer_Files = YES
+When_To_Transfer_Output = ON_EXIT
+transfer_input_files = FILES
+Output = DIRECTORY/PREFIX_JOBID.stdout
+Error = DIRECTORY/PREFIX_JOBID.stderr
+Log = DIRECTORY/PREFIX_JOBID.condor.log
+Queue = 1
++UseSL5 = True

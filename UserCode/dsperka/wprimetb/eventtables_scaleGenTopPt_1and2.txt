@@ -1,0 +1,170 @@
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected data, and background  events in the electron channel. 
+For the background samples, the expectation is computed
+corresponding to an integrated luminosity of $19624.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:el_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+{\bf Data} & 350374 & 277678 & 63050 & 9646 & 18175 & 2063   \\ \hline
+\multicolumn{6}{l}{\bf Background:}     \\ \hline
+$t\overline t$ &70713 & 28040 & 34743 & 7930 & 12449 & 1648  \\ 
+$tqb$ &2445 & 792 & 1417 & 235 & 481  & 72  \\ 
+$\overline{t}qb$ &1223 & 393 & 707 & 124 & 232  & 36  \\ 
+$tW$  &2627 & 1193 & 1273 & 160 & 436  & 49  \\ 
+$\overline{t}W$ &2660 & 1159 & 1298 & 204 & 416  & 59  \\ 
+$tb$ & 258 & 64 & 128 & 67 & 43 & 20    \\ 
+$\overline{t}b$ & 98 & 22 & 48 & 27 & 15 & 8    \\ 
+$W(\rightarrow)\ell\nu$+light jets &140214 & 136015 & 4183 & 16 & 868  & 0  \\ 
+$W(\rightarrow)\ell\nu$+c jets &66000 & 53827 & 11995 & 178 & 1970  & 4  \\ 
+$W(\rightarrow)\ell\nu$+b jets &7997 & 3779 & 3846 & 372 & 807  & 7  \\ 
+$Z/\gamma^*(\rightarrow\ell\ell$)+jets &20081 & 18505 & 1492 & 84 & 261  & 10 \\ 
+$WW$ &2156 & 1940 & 206 & 9 & 47  & 3 \\ 
+{\bf Total Background} &316116 & 245643 & 61160 & 9313 & 17968 & 1886 \\ \hline
+{\bf MC / Data} &0.902 & 0.885 & 0.97 & 0.965 & 0.989 & 0.914 \\ \hline
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+
+
+
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected signal events in the electron channel. 
+For the signal samples, the expectation is computed
+corresponding to an integrated luminosity of $19624.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:el_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+\multicolumn{6}{l}{\bf Signal:}     \\ \hline 
+$tb$ & 356 & 86 & 176 & 94 & 58 & 28    \\ 
+{\underline {\bf ${\PWpr}_R\rightarrow tb$}} & &  &  & & \\ 
+M(${\PWpr}_R=$) 800 GeV &7699 & 1793 & 3915 & 1991 & 2448 & 1285   \\ 
+M(${\PWpr}_R=$) 900 GeV &4794 & 1192 & 2441 & 1162 & 1613 & 799   \\ 
+M(${\PWpr}_R=$) 1000 GeV &3056 & 811 & 1551 & 694 & 1054 & 498   \\ 
+M(${\PWpr}_R=$) 1100 GeV &2062 & 574 & 1049 & 439 & 734 & 320   \\ 
+M(${\PWpr}_R=$) 1200 GeV &1356 & 397 & 691 & 268 & 490 & 199   \\ 
+M(${\PWpr}_R=$) 1300 GeV &893 & 274 & 453 & 166 & 324 & 124   \\ 
+M(${\PWpr}_R=$) 1400 GeV &592 & 190 & 299 & 103 & 215 & 77   \\ 
+M(${\PWpr}_R=$) 1500 GeV &395 & 130 & 199 & 66 & 143 & 49   \\ 
+M(${\PWpr}_R=$) 1600 GeV &266 & 92 & 134 & 41 & 96 & 30   \\ 
+M(${\PWpr}_R=$) 1700 GeV &180 & 63 & 90 & 26 & 64 & 19   \\ 
+M(${\PWpr}_R=$) 1800 GeV &123 & 44 & 61 & 17 & 43 & 13   \\ 
+M(${\PWpr}_R=$) 1900 GeV &83 & 31 & 41 & 11 & 29 & 8   \\ 
+M(${\PWpr}_R=$) 2000 GeV &57 & 22 & 28 & 8 & 20 & 5   \\ 
+M(${\PWpr}_R=$) 2100 GeV &40 & 15 & 19 & 5 & 13 & 4   \\ 
+M(${\PWpr}_R=$) 2200 GeV &28 & 11 & 13 & 3 & 9 & 2   \\ 
+M(${\PWpr}_R=$) 2300 GeV &19 & 7 & 9 & 2 & 6 & 2   \\ 
+M(${\PWpr}_R=$) 2500 GeV &10 & 4 & 5 & 1 & 3 & 1   \\ 
+M(${\PWpr}_R=$) 2400 GeV &14 & 5 & 7 & 2 & 4 & 1   \\ 
+M(${\PWpr}_R=$) 2600 GeV &7 & 3 & 3 & 1 & 2 & 1   \\ 
+M(${\PWpr}_R=$) 2700 GeV &5 & 2 & 3 & 1 & 2 & 0   \\ 
+M(${\PWpr}_R=$) 2800 GeV &4 & 1 & 2 & 1 & 1 & 0   \\ 
+M(${\PWpr}_R=$) 2900 GeV &3 & 1 & 1 & 0 & 1 & 0   \\ 
+M(${\PWpr}_R=$) 3000 GeV &2 & 1 & 1 & 0 & 1 & 0   \\ 
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected data, and background  events in the muon channel. 
+For the background samples, the expectation is computed
+corresponding to an integrated luminosity of $19624.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:mu_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+{\bf Data} & 327839 & 255019 & 62955 & 9865 & 18558 & 2081   \\ \hline
+\multicolumn{6}{l}{\bf Background:}     \\ \hline
+$t\overline t$ &73083 & 29313 & 35535 & 8234 & 12677 & 1659  \\ 
+$tqb$ &2580 & 834 & 1494 & 252 & 505  & 74  \\ 
+$\overline{t}qb$ &1363 & 447 & 793 & 123 & 246  & 41  \\ 
+$tW$  &2757 & 1255 & 1321 & 181 & 424  & 56  \\ 
+$\overline{t}W$ &2756 & 1225 & 1338 & 193 & 441  & 58  \\ 
+$tb$ & 268 & 60 & 135 & 73 & 42 & 23    \\ 
+$\overline{t}b$ & 122 & 30 & 62 & 30 & 22 & 9    \\ 
+$W(\rightarrow)\ell\nu$+light jets &146251 & 142045 & 4160 & 46 & 783  & 0  \\ 
+$W(\rightarrow)\ell\nu$+c jets &68119 & 56452 & 11521 & 145 & 2137  & 0  \\ 
+$W(\rightarrow)\ell\nu$+b jets &8931 & 4371 & 4069 & 491 & 794  & 6  \\ 
+$Z/\gamma^*(\rightarrow\ell\ell$)+jets &19145 & 17567 & 1505 & 73 & 276  & 17 \\ 
+$WW$ &2267 & 2041 & 220 & 7 & 47  & 2 \\ 
+{\bf Total Background} &327251 & 255550 & 61956 & 9746 & 18331 & 1913 \\ \hline
+{\bf MC / Data} &0.998 & 1.002 & 0.984 & 0.988 & 0.988 & 0.919 \\ \hline
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+
+
+
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected signal events in the muon channel. 
+For the signal samples, the expectation is computed
+corresponding to an integrated luminosity of $19624.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:mu_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+\multicolumn{6}{l}{\bf Signal:}     \\ \hline 
+$tb$ & 390 & 90 & 197 & 103 & 64 & 32    \\ 
+{\underline {\bf ${\PWpr}_R\rightarrow tb$}} & &  &  & & \\ 
+M(${\PWpr}_R=$) 800 GeV &7678 & 1802 & 3917 & 1959 & 2469 & 1293   \\ 
+M(${\PWpr}_R=$) 900 GeV &4742 & 1194 & 2413 & 1136 & 1609 & 793   \\ 
+M(${\PWpr}_R=$) 1000 GeV &2945 & 789 & 1501 & 655 & 1031 & 476   \\ 
+M(${\PWpr}_R=$) 1100 GeV &1951 & 548 & 990 & 413 & 692 & 302   \\ 
+M(${\PWpr}_R=$) 1200 GeV &1268 & 376 & 643 & 249 & 455 & 185   \\ 
+M(${\PWpr}_R=$) 1300 GeV &818 & 256 & 413 & 150 & 294 & 112   \\ 
+M(${\PWpr}_R=$) 1400 GeV &533 & 172 & 268 & 92 & 191 & 68   \\ 
+M(${\PWpr}_R=$) 1500 GeV &351 & 118 & 175 & 57 & 125 & 42   \\ 
+M(${\PWpr}_R=$) 1600 GeV &232 & 81 & 115 & 36 & 81 & 26   \\ 
+M(${\PWpr}_R=$) 1700 GeV &155 & 56 & 77 & 23 & 54 & 16   \\ 
+M(${\PWpr}_R=$) 1800 GeV &104 & 38 & 51 & 15 & 36 & 10   \\ 
+M(${\PWpr}_R=$) 1900 GeV &71 & 27 & 35 & 10 & 24 & 7   \\ 
+M(${\PWpr}_R=$) 2000 GeV &49 & 19 & 24 & 6 & 16 & 4   \\ 
+M(${\PWpr}_R=$) 2100 GeV &33 & 13 & 16 & 4 & 11 & 3   \\ 
+M(${\PWpr}_R=$) 2200 GeV &23 & 9 & 11 & 3 & 7 & 2   \\ 
+M(${\PWpr}_R=$) 2300 GeV &16 & 6 & 8 & 2 & 5 & 1   \\ 
+M(${\PWpr}_R=$) 2500 GeV &8 & 3 & 4 & 1 & 2 & 1   \\ 
+M(${\PWpr}_R=$) 2400 GeV &12 & 5 & 6 & 2 & 4 & 1   \\ 
+M(${\PWpr}_R=$) 2600 GeV &6 & 2 & 3 & 1 & 2 & 1   \\ 
+M(${\PWpr}_R=$) 2700 GeV &5 & 2 & 2 & 1 & 1 & 0   \\ 
+M(${\PWpr}_R=$) 2800 GeV &3 & 1 & 2 & 0 & 1 & 0   \\ 
+M(${\PWpr}_R=$) 2900 GeV &3 & 1 & 1 & 0 & 1 & 0   \\ 
+M(${\PWpr}_R=$) 3000 GeV &2 & 1 & 1 & 0 & 1 & 0   \\ 
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}

@@ -1,0 +1,49 @@
+<p>Observables (xmin, xmax, nbins):</p>
+<ul>
+<li>mu_invmass_final (100, 4000, 20)</li>
+</ul>
+<p>Background processes:</p>
+<ul>
+<li>ttbar</li>
+<li>wjets</li>
+</ul>
+<p>Signal processes:</p><ul>
+<li>wp1000</li>
+<li>wp1100</li>
+<li>wp1200</li>
+<li>wp1300</li>
+<li>wp1400</li>
+<li>wp1500</li>
+<li>wp1600</li>
+<li>wp1700</li>
+<li>wp1800</li>
+<li>wp1900</li>
+<li>wp2000</li>
+<li>wp2100</li>
+<li>wp2200</li>
+<li>wp2300</li>
+<li>wp2400</li>
+<li>wp2500</li>
+<li>wp2600</li>
+<li>wp2700</li>
+<li>wp2800</li>
+<li>wp2900</li>
+<li>wp3000</li>
+<li>wp800</li>
+<li>wp900</li>
+</ul>
+<p>Nuisance parameters (includes only those which apply to the background-only model):</p>
+<ul>
+<li>PU (morph only)</li>
+<li>btag (morph only)</li>
+<li>hf (morph only)</li>
+<li>jer (morph only)</li>
+<li>jes (morph only)</li>
+<li>lumi (rate only)</li>
+<li>matching (morph only)</li>
+<li>muhlteff (rate only)</li>
+<li>mulepeff (rate only)</li>
+<li>q2scale (morph only)</li>
+<li>ttbar_rate (rate only)</li>
+<li>zerotagshape (morph only)</li>
+</ul>

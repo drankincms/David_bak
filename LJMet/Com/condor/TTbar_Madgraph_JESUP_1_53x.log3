@@ -1,0 +1,601 @@
+[WprimeSelector]: registering WprimeSelector
+[WprimeCalc]: registering WprimeCalc
+[PileUpCalc]: registering PileUpCalc
+[LjetsTopoCalcNew]: registering LjetsTopoCalcNew
+[CommonCalc]: registering CommonCalc
+[ljmet]: getting parameters from config file
+[ljmet]: the following parameter sets found:
+[ljmet]: hello from ljmet!
+[ljmet]: CommonCalc
+[ljmet]: LjetsTopoCalcNew
+[ljmet]: StopCalc
+[ljmet]: WprimeCalc
+[ljmet]: cutbasedIDSelector
+[ljmet]: event_selector
+[ljmet]: inputs
+[ljmet]: ljmet
+[ljmet]: looseElectronSelector
+[ljmet]: looseMuonSelector
+[ljmet]: outputs
+[ljmet]: pfJetIDSelector
+[ljmet]: pfMuonSelector
+[ljmet]: pvSelector
+[ljmet]: setting up TFileService
+[ljmet]: Creating output tree
+[ljmet]: booking histograms
+[ljmet]: instantiating the event selector
+b-tag check CSVM combinedSecondaryVertexBJetTags 0.679
+[WprimeSelector]: muon selector configured!
+[WprimeSelector]: loose muon selector configured!
+CutBasedElectronSelector: You have choosen version = TIGHT 
+[WprimeSelector]: cut based electron selector configured!
+CutBasedElectronSelector: You have choosen version = VETO 
+[WprimeSelector]: cut based loose electron selector configured!
+[WprimeSelector]: jet ID selector configured!
+[WprimeSelector]: pv selector configured!
+[WprimeSelector]: config parameters loaded...
+[WprimeSelector]: initializing wprime selection
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.378015
+   1 0.486942
+   2 0.492756
+   3 0.356307
+   4 0.385451
+   5 0.724124
+   6 0.584092
+   7 0.576322
+   8 0.777053
+   9 1.11803
+   10 1.56351
+   11 1.9615
+   12 1.98543
+   13 1.73806
+   14 1.46241
+   15 1.2714
+   16 1.17402
+   17 1.13529
+   18 1.13435
+   19 1.15514
+   20 1.17009
+   21 1.16621
+   22 1.14821
+   23 1.11898
+   24 1.07238
+   25 1.00109
+   26 0.903523
+   27 0.784558
+   28 0.651743
+   29 0.515586
+   30 0.388393
+   31 0.280064
+   32 0.194528
+   33 0.130661
+   34 0.0846715
+   35 0.0525313
+   36 0.0310338
+   37 0.0174241
+   38 0.00931917
+   39 0.00479083
+   40 0.0023969
+   41 0.00118293
+   42 0.00058244
+   43 0.000288044
+   44 0.000143603
+   45 7.20172e-05
+   46 3.62163e-05
+   47 1.82157e-05
+   48 9.14493e-06
+   49 4.57948e-06
+   50 2.29001e-06
+   51 1.14434e-06
+   52 5.72253e-07
+   53 2.86348e-07
+   54 1.43054e-07
+   55 7.12273e-08
+   56 3.52543e-08
+   57 1.73081e-08
+   58 8.4093e-09
+   59 8.49271e-09
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.391577
+   1 0.504311
+   2 0.376151
+   3 0.485771
+   4 0.459371
+   5 0.753397
+   6 0.605096
+   7 0.596988
+   8 0.804672
+   9 1.15388
+   10 1.58538
+   11 1.94111
+   12 1.96018
+   13 1.73025
+   14 1.46549
+   15 1.27803
+   16 1.17679
+   17 1.13089
+   18 1.12627
+   19 1.1475
+   20 1.16571
+   21 1.16635
+   22 1.15392
+   23 1.13024
+   24 1.08577
+   25 1.0121
+   26 0.909373
+   27 0.784301
+   28 0.645867
+   29 0.505836
+   30 0.377217
+   31 0.26978
+   32 0.186649
+   33 0.125639
+   34 0.0820877
+   35 0.0515571
+   36 0.0308724
+   37 0.0175489
+   38 0.00947918
+   39 0.0049079
+   40 0.00246705
+   41 0.0012211
+   42 0.000602252
+   43 0.000298118
+   44 0.000148697
+   45 7.45885e-05
+   46 3.75132e-05
+   47 1.88688e-05
+   48 9.47295e-06
+   49 4.74375e-06
+   50 2.37216e-06
+   51 1.18539e-06
+   52 5.92783e-07
+   53 2.96621e-07
+   54 1.48186e-07
+   55 7.37826e-08
+   56 3.65191e-08
+   57 1.79291e-08
+   58 8.71099e-09
+   59 8.79739e-09
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.364361
+   1 0.333538
+   2 0.351845
+   3 0.344097
+   4 0.414274
+   5 0.350177
+   6 0.32984
+   7 0.371472
+   8 0.522052
+   9 0.793619
+   10 1.11663
+   11 1.44274
+   12 1.59969
+   13 1.51369
+   14 1.31235
+   15 1.15512
+   16 1.08792
+   17 1.07545
+   18 1.09105
+   19 1.12559
+   20 1.15579
+   21 1.16793
+   22 1.16592
+   23 1.15825
+   24 1.1483
+   25 1.12957
+   26 1.09059
+   27 1.02438
+   28 0.930882
+   29 0.815165
+   30 0.684899
+   31 0.550689
+   32 0.424466
+   33 0.316055
+   34 0.229172
+   35 0.162226
+   36 0.111893
+   37 0.0746817
+   38 0.0478191
+   39 0.0292501
+   40 0.0171019
+   41 0.00961462
+   42 0.00524888
+   43 0.00281444
+   44 0.00150048
+   45 0.000801187
+   46 0.000430267
+   47 0.000232705
+   48 0.000126525
+   49 6.89547e-05
+   50 3.75877e-05
+   51 2.04552e-05
+   52 1.11195e-05
+   53 6.04415e-06
+   54 3.28618e-06
+   55 1.78925e-06
+   56 9.75375e-07
+   57 5.31821e-07
+   58 2.89361e-07
+   59 3.29695e-07
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.246166
+   1 0.31946
+   2 0.327723
+   3 0.344122
+   4 0.317169
+   5 0.569242
+   6 0.44473
+   7 0.430816
+   8 0.593683
+   9 0.910137
+   10 1.31661
+   11 1.68435
+   12 1.74694
+   13 1.56306
+   14 1.33201
+   15 1.16215
+   16 1.07618
+   17 1.05082
+   18 1.06861
+   19 1.11246
+   20 1.15351
+   21 1.17719
+   22 1.18603
+   23 1.18122
+   24 1.15741
+   25 1.11021
+   26 1.03996
+   27 0.949962
+   28 0.843338
+   29 0.725177
+   30 0.6031
+   31 0.485132
+   32 0.377059
+   33 0.282735
+   34 0.203946
+   35 0.141003
+   36 0.0934745
+   37 0.0595877
+   38 0.0366889
+   39 0.0219968
+   40 0.0129732
+   41 0.00762347
+   42 0.00453253
+   43 0.00277321
+   44 0.00177766
+   45 0.00120681
+   46 0.000870436
+   47 0.000664033
+   48 0.000530514
+   49 0.000439091
+   50 0.00037323
+   51 0.00032336
+   52 0.000284177
+   53 0.000252252
+   54 0.000225128
+   55 0.000201456
+   56 0.000180245
+   57 0.000160898
+   58 0.000142971
+   59 0.000265574
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.229041
+   1 0.210746
+   2 0.290395
+   3 0.250875
+   4 0.277952
+   5 0.269141
+   6 0.243578
+   7 0.270286
+   8 0.377339
+   9 0.60359
+   10 0.901618
+   11 1.21763
+   12 1.40262
+   13 1.35436
+   14 1.18769
+   15 1.05008
+   16 0.989284
+   17 0.983667
+   18 1.01309
+   19 1.06588
+   20 1.11708
+   21 1.15114
+   22 1.17112
+   23 1.18434
+   24 1.19299
+   25 1.1933
+   26 1.1784
+   27 1.1436
+   28 1.0877
+   29 1.01188
+   30 0.91797
+   31 0.809822
+   32 0.693695
+   33 0.57749
+   34 0.467128
+   35 0.365978
+   36 0.277154
+   37 0.202521
+   38 0.142604
+   39 0.0969681
+   40 0.063933
+   41 0.0411218
+   42 0.0260063
+   43 0.0163251
+   44 0.0103078
+   45 0.00663298
+   46 0.00441432
+   47 0.00307903
+   48 0.00226753
+   49 0.00176307
+   50 0.00143942
+   51 0.00122259
+   52 0.00107162
+   53 0.000962377
+   54 0.000879721
+   55 0.000815221
+   56 0.000762888
+   57 0.000718706
+   58 0.000679363
+   59 0.00135176
+[ljmet]: Using MC truth info
+[ljmet]: Setting up chain event
+[ljmet]: Begin loop over events
+[ljmet]: 0 events processed. Processing run 1, event 1377401
+[LjmetEventContent]: Creating branches in output tree
+[LjmetEventContent]: integer branches created: 37
+[LjmetEventContent]: double precision branches created: 158
+[LjmetEventContent]: vector<int> branches created: 0
+[LjmetEventContent]: vector<double> branches created: 0
+[ljmet]: 100 events processed. Processing run 1, event 1378052
+[ljmet]: 200 events processed. Processing run 1, event 1378966
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 300 events processed. Processing run 1, event 1379627
+[ljmet]: 400 events processed. Processing run 1, event 1381733
+[ljmet]: 500 events processed. Processing run 1, event 1383561
+[ljmet]: 600 events processed. Processing run 1, event 1384532
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 700 events processed. Processing run 1, event 1384849
+[ljmet]: 800 events processed. Processing run 1, event 1386417
+[ljmet]: 900 events processed. Processing run 1, event 1387672
+[ljmet]: 1000 events processed. Processing run 1, event 1387969
+[ljmet]: 1100 events processed. Processing run 1, event 1388349
+[ljmet]: 1200 events processed. Processing run 1, event 1393785
+[ljmet]: 1300 events processed. Processing run 1, event 1394096
+[ljmet]: 1400 events processed. Processing run 1, event 1394441
+[ljmet]: 1500 events processed. Processing run 1, event 1394803
+[ljmet]: 1600 events processed. Processing run 1, event 1395450
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 1700 events processed. Processing run 1, event 1396383
+[ljmet]: 1800 events processed. Processing run 1, event 7506423
+[ljmet]: 1900 events processed. Processing run 1, event 7510091
+[ljmet]: 2000 events processed. Processing run 1, event 7512548
+[ljmet]: 2100 events processed. Processing run 1, event 7513764
+[ljmet]: 2200 events processed. Processing run 1, event 7515905
+[ljmet]: 2300 events processed. Processing run 1, event 7516237
+[ljmet]: 2400 events processed. Processing run 1, event 7516875
+[ljmet]: 2500 events processed. Processing run 1, event 7521116
+[ljmet]: 2600 events processed. Processing run 1, event 7556614
+[ljmet]: 2700 events processed. Processing run 1, event 9785875
+[ljmet]: 2800 events processed. Processing run 1, event 9805100
+[ljmet]: 2900 events processed. Processing run 1, event 9841138
+[ljmet]: 3000 events processed. Processing run 1, event 9842961
+[ljmet]: 3100 events processed. Processing run 1, event 9889213
+[ljmet]: 3200 events processed. Processing run 1, event 9963951
+[ljmet]: 3300 events processed. Processing run 1, event 9964306
+[ljmet]: 3400 events processed. Processing run 1, event 9965296
+[ljmet]: 3500 events processed. Processing run 1, event 7665945
+[ljmet]: 3600 events processed. Processing run 1, event 7666319
+[ljmet]: 3700 events processed. Processing run 1, event 7666958
+[ljmet]: 3800 events processed. Processing run 1, event 7667337
+[ljmet]: 3900 events processed. Processing run 1, event 7668031
+[ljmet]: 4000 events processed. Processing run 1, event 7668382
+[ljmet]: 4100 events processed. Processing run 1, event 7668720
+[ljmet]: 4200 events processed. Processing run 1, event 7669374
+[ljmet]: 4300 events processed. Processing run 1, event 7670030
+[ljmet]: 4400 events processed. Processing run 1, event 7670731
+[ljmet]: 4500 events processed. Processing run 1, event 7671082
+[ljmet]: 4600 events processed. Processing run 1, event 7671436
+[ljmet]: 4700 events processed. Processing run 1, event 17105766
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 4800 events processed. Processing run 1, event 17106961
+[ljmet]: 4900 events processed. Processing run 1, event 17115092
+[ljmet]: 5000 events processed. Processing run 1, event 17119927
+[ljmet]: 5100 events processed. Processing run 1, event 17127739
+[ljmet]: 5200 events processed. Processing run 1, event 17128392
+[ljmet]: 5300 events processed. Processing run 1, event 13486346
+[ljmet]: 5400 events processed. Processing run 1, event 13486712
+[ljmet]: 5500 events processed. Processing run 1, event 13487051
+[ljmet]: 5600 events processed. Processing run 1, event 13487755
+[ljmet]: 5700 events processed. Processing run 1, event 13490511
+[ljmet]: 5800 events processed. Processing run 1, event 13491512
+[ljmet]: 5900 events processed. Processing run 1, event 13495175
+[ljmet]: 6000 events processed. Processing run 1, event 13495828
+[ljmet]: 6100 events processed. Processing run 1, event 13496508
+[ljmet]: 6200 events processed. Processing run 1, event 13498358
+[ljmet]: 6300 events processed. Processing run 1, event 14599442
+[ljmet]: 6400 events processed. Processing run 1, event 14601266
+[ljmet]: 6500 events processed. Processing run 1, event 14601628
+[ljmet]: 6600 events processed. Processing run 1, event 14602284
+[ljmet]: 6700 events processed. Processing run 1, event 14606530
+[ljmet]: 6800 events processed. Processing run 1, event 14609286
+[ljmet]: 6900 events processed. Processing run 1, event 20185248
+[ljmet]: 7000 events processed. Processing run 1, event 20188307
+[ljmet]: 7100 events processed. Processing run 1, event 20199133
+[ljmet]: 7200 events processed. Processing run 1, event 20222001
+[ljmet]: 7300 events processed. Processing run 1, event 20236418
+[ljmet]: 7400 events processed. Processing run 1, event 20252030
+[ljmet]: 7500 events processed. Processing run 1, event 20261342
+[ljmet]: 7600 events processed. Processing run 1, event 20262833
+[ljmet]: 7700 events processed. Processing run 1, event 20265901
+[ljmet]: 7800 events processed. Processing run 1, event 20268687
+[ljmet]: 7900 events processed. Processing run 1, event 20272057
+[ljmet]: 8000 events processed. Processing run 1, event 20291402
+[ljmet]: 8100 events processed. Processing run 1, event 20292070
+[ljmet]: 8200 events processed. Processing run 1, event 20293016
+[ljmet]: 8300 events processed. Processing run 1, event 20305396
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 8400 events processed. Processing run 1, event 20306347
+[ljmet]: 8500 events processed. Processing run 1, event 20309122
+[ljmet]: 8600 events processed. Processing run 1, event 23834086
+[ljmet]: 8700 events processed. Processing run 1, event 27390792
+[ljmet]: 8800 events processed. Processing run 1, event 28359930
+[ljmet]: 8900 events processed. Processing run 1, event 28362954
+[ljmet]: 9000 events processed. Processing run 1, event 28363573
+[ljmet]: 9100 events processed. Processing run 1, event 28367808
+[ljmet]: 9200 events processed. Processing run 1, event 28368458
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 9300 events processed. Processing run 1, event 28370898
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 9400 events processed. Processing run 1, event 28371495
+[ljmet]: 9500 events processed. Processing run 1, event 28372119
+[ljmet]: 9600 events processed. Processing run 1, event 28372475
+[ljmet]: 9700 events processed. Processing run 1, event 28372833
+[ljmet]: 9800 events processed. Processing run 1, event 28374034
+[ljmet]: 9900 events processed. Processing run 1, event 28376144
+[ljmet]: 10000 events processed. Processing run 1, event 28377072
+[ljmet]: 10100 events processed. Processing run 1, event 28378018
+[ljmet]: 10200 events processed. Processing run 1, event 28379542
+In LjetsTopVars 
+  Error: No Best Top created!
+
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 10300 events processed. Processing run 1, event 28381074
+[ljmet]: 10400 events processed. Processing run 1, event 18959410
+[ljmet]: 10500 events processed. Processing run 1, event 18980113
+[ljmet]: 10600 events processed. Processing run 1, event 18983139
+[ljmet]: 10700 events processed. Processing run 1, event 19106973
+[ljmet]: 10800 events processed. Processing run 1, event 19107298
+[ljmet]: 10900 events processed. Processing run 1, event 19117489
+[ljmet]: 11000 events processed. Processing run 1, event 19126210
+[ljmet]: 11100 events processed. Processing run 1, event 19130420
+[ljmet]: 11200 events processed. Processing run 1, event 19131370
+[ljmet]: 11300 events processed. Processing run 1, event 19132865
+[ljmet]: 11400 events processed. Processing run 1, event 19135581
+[ljmet]: 11500 events processed. Processing run 1, event 19136521
+[ljmet]: 11600 events processed. Processing run 1, event 19139238
+[ljmet]: 11700 events processed. Processing run 1, event 19145278
+[ljmet]: 11800 events processed. Processing run 1, event 19145919
+[ljmet]: 11900 events processed. Processing run 1, event 19148075
+[ljmet]: 12000 events processed. Processing run 1, event 19151119
+[ljmet]: 12100 events processed. Processing run 1, event 19153861
+[ljmet]: 12200 events processed. Processing run 1, event 19155087
+[ljmet]: 12300 events processed. Processing run 1, event 19156629
+[ljmet]: 12400 events processed. Processing run 1, event 19160867
+[ljmet]: 12500 events processed. Processing run 1, event 19162112
+[ljmet]: 12600 events processed. Processing run 1, event 19163339
+[ljmet]: 12700 events processed. Processing run 1, event 19164288
+[ljmet]: 12800 events processed. Processing run 1, event 19165854
+[ljmet]: 12900 events processed. Processing run 1, event 19175223
+[ljmet]: 13000 events processed. Processing run 1, event 19175580
+[ljmet]: 13100 events processed. Processing run 1, event 19175904
+[ljmet]: 13200 events processed. Processing run 1, event 19176227
+[ljmet]: 13300 events processed. Processing run 1, event 19176568
+[ljmet]: 13400 events processed. Processing run 1, event 19178139
+[ljmet]: 13500 events processed. Processing run 1, event 19180858
+[ljmet]: 13600 events processed. Processing run 1, event 19181829
+[ljmet]: 13700 events processed. Processing run 1, event 19267670
+[ljmet]: 13800 events processed. Processing run 1, event 19269488
+[ljmet]: 13900 events processed. Processing run 1, event 19271056
+[ljmet]: 14000 events processed. Processing run 1, event 20279463
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 14100 events processed. Processing run 1, event 20283963
+[ljmet]: 14200 events processed. Processing run 1, event 20284858
+[ljmet]: 14300 events processed. Processing run 1, event 20286378
+[ljmet]: 14400 events processed. Processing run 1, event 20287338
+[ljmet]: 14500 events processed. Processing run 1, event 20287698
+[ljmet]: 14600 events processed. Processing run 1, event 20288342
+[ljmet]: 14700 events processed. Processing run 1, event 20289289
+[ljmet]: 14800 events processed. Processing run 1, event 20290254
+[ljmet]: 14900 events processed. Processing run 1, event 20291211
+[ljmet]: 15000 events processed. Processing run 1, event 20291838
+[ljmet]: 15100 events processed. Processing run 1, event 20295759
+[ljmet]: 15200 events processed. Processing run 1, event 20296397
+[ljmet]: 15300 events processed. Processing run 1, event 20298510
+[ljmet]: 15400 events processed. Processing run 1, event 1167273
+[ljmet]: 15500 events processed. Processing run 1, event 1167674
+[ljmet]: 15600 events processed. Processing run 1, event 7500091
+[ljmet]: 15700 events processed. Processing run 1, event 7500804
+[ljmet]: 15800 events processed. Processing run 1, event 7501484
+[ljmet]: 15900 events processed. Processing run 1, event 7503074
+[ljmet]: 16000 events processed. Processing run 1, event 7505266
+[ljmet]: 16100 events processed. Processing run 1, event 7505921
+[ljmet]: 16200 events processed. Processing run 1, event 7517744
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 16300 events processed. Processing run 1, event 7518436
+[ljmet]: 16400 events processed. Processing run 1, event 7556041
+[ljmet]: 16500 events processed. Processing run 1, event 9784154
+[ljmet]: 16600 events processed. Processing run 1, event 9788683
+[ljmet]: 16700 events processed. Processing run 1, event 9790505
+[ljmet]: 16800 events processed. Processing run 1, event 9796818
+[ljmet]: 16900 events processed. Processing run 1, event 9802848
+[ljmet]: 17000 events processed. Processing run 1, event 9806507
+[ljmet]: 17100 events processed. Processing run 1, event 9807142
+[ljmet]: 17200 events processed. Processing run 1, event 9814365
+[ljmet]: 17300 events processed. Processing run 1, event 23886425
+[ljmet]: 17400 events processed. Processing run 1, event 23890371
+[ljmet]: 17500 events processed. Processing run 1, event 23891607
+[ljmet]: 17600 events processed. Processing run 1, event 23891950
+[ljmet]: 17700 events processed. Processing run 1, event 23906969
+[ljmet]: 17800 events processed. Processing run 1, event 23909699
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 17900 events processed. Processing run 1, event 23913070
+[ljmet]: 18000 events processed. Processing run 1, event 23926636
+[ljmet]: 18100 events processed. Processing run 1, event 23928185
+[ljmet]: 18200 events processed. Processing run 1, event 23929134
+[ljmet]: 18300 events processed. Processing run 1, event 23929767
+[ljmet]: 18400 events processed. Processing run 1, event 23931867
+[ljmet]: 18500 events processed. Processing run 1, event 23955066
+[ljmet]: 18600 events processed. Processing run 1, event 23962068
+In LjetsTopVars 
+  Error: No Best Top created!
+
+[ljmet]: 18700 events processed. Processing run 1, event 23966319
+[ljmet]: 18800 events processed. Processing run 1, event 23971168
+[ljmet]: 18900 events processed. Processing run 1, event 23973657
+[ljmet]: 19000 events processed. Processing run 1, event 16408305
+In LjetsTopVars 
+  Error: No Best Top created!
+
+terminate called after throwing an instance of 'std::out_of_range'
+  what():  vector::_M_range_check

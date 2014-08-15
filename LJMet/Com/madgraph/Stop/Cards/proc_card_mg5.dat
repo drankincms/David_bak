@@ -1,0 +1,39 @@
+#************************************************************
+#*                        MadGraph 5                        *
+#*                                                          *
+#*                *                       *                 *
+#*                  *        * *        *                   *
+#*                    * * * * 5 * * * *                     *
+#*                  *        * *        *                   *
+#*                *                       *                 *
+#*                                                          *
+#*                                                          *
+#*         VERSION 1.4.4                 2012-03-29         *
+#*                                                          *
+#*    The MadGraph Development Team - Please visit us at    *
+#*    https://server06.fynu.ucl.ac.be/projects/madgraph     *
+#*                                                          *
+#************************************************************
+#*                                                          *
+#*               Command File for MadGraph 5                *
+#*                                                          *
+#*     run as ./bin/mg5  filename                           *
+#*                                                          *
+#************************************************************
+
+import model stopnlsp
+# Define multiparticle labels
+define p = g u c d s u~ c~ d~ s~
+define j = g u c d s u~ c~ d~ s~
+define l+ = e+ mu+
+define l- = e- mu-
+define vl = ve vm
+define vl~ = ve~ vm~
+# Specify process(es) to run
+#generate p p > t1 t1~, t1 > w+ b gold, t1~ > w- b~ gold @1
+generate p p > t1 t1~, (t1 > w+ b gold, w+ > l+ vl), (t1~ > w- b~ gold, w- > l- vl~) @1
+add process p p > t1 t1~, (t1 > w+ b gold, w+ > l+ vl), (t1~ > w- b~ gold, w- > j j) @2
+add process p p > t1 t1~, (t1 > w+ b gold, w+ > j j), (t1~ > w- b~ gold, w- > l- vl~) @3
+add process p p > t1 t1~, (t1 > w+ b gold, w+ > j j), (t1~ > w- b~ gold, w- > j j) @4
+# Output processes to MadEvent directory
+output -f

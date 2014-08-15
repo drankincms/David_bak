@@ -1,0 +1,272 @@
+<?xml version="1.0" ?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title>theta-auto Report</title>
+    <script type="text/javascript" src="js/prototype.js"></script>
+    <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="js/lightbox.js"></script>
+    <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+    <style type="text/css">
+    body {margin: 30px; font-family: Verdana, Arial, sans-serif; font-size: 12px; background:#eee;}
+    h1, h2, h3 { padding: 0.2ex; padding-left:.8ex;}
+    h1 {font-size: 150%%; background: #d44;}
+    h2 {font-size: 110%%; background: #f88; padding-left:1.3ex;}
+    h3 {font-size: 100%%; background: #aaa; padding-left:1.3ex;}
+    .inner {padding-left: 3ex;}
+    a img{ border: none;}
+    p {margin:0 0 0 0; margin-top: 1.3ex;}
+    ul {margin:0 0 0 0;}
+    </style>
+    </head><body>
+    <p>Hint: click on top-level headers to toggle visibility of that section.</p>
+    <h1 onclick=$('div1').toggle()>1. General Model Info</h1><div class="inner" id="div1">
+<p>Observables (xmin, xmax, nbins):</p>
+<ul>
+<li>elec_invmass_final (100, 4000, 20)</li>
+<li>mu_invmass_final (100, 4000, 20)</li>
+</ul>
+<p>Background processes:</p>
+<ul>
+<li>ttbar</li>
+<li>wjets</li>
+</ul>
+<p>Signal processes:</p><ul>
+<li>wp1000</li>
+<li>wp1100</li>
+<li>wp1200</li>
+<li>wp1300</li>
+<li>wp1400</li>
+<li>wp1500</li>
+<li>wp1600</li>
+<li>wp1700</li>
+<li>wp1800</li>
+<li>wp1900</li>
+<li>wp2000</li>
+<li>wp2100</li>
+<li>wp2200</li>
+<li>wp2300</li>
+<li>wp2400</li>
+<li>wp2500</li>
+<li>wp2600</li>
+<li>wp2700</li>
+<li>wp2800</li>
+<li>wp2900</li>
+<li>wp3000</li>
+<li>wp800</li>
+<li>wp900</li>
+</ul>
+<p>Nuisance parameters (includes only those which apply to the background-only model):</p>
+<ul>
+<li>PU (morph only)</li>
+<li>btag (morph only)</li>
+<li>ehlteff (rate only)</li>
+<li>elepeff (rate only)</li>
+<li>hf (morph only)</li>
+<li>jer (morph only)</li>
+<li>jes (morph only)</li>
+<li>lumi (rate only)</li>
+<li>matching (morph only)</li>
+<li>muhlteff (rate only)</li>
+<li>mulepeff (rate only)</li>
+<li>q2scale (morph only)</li>
+<li>ttbar_rate (rate only)</li>
+<li>zerotagshape (morph only)</li>
+</ul>
+
+</div>
+<h1 onclick=$('div2').toggle()>2. Rate Summary</h1><div class="inner" id="div2">
+<p>Rates for all observables and processes as given by the 'nominal' templates. If errors are given, they are MC stat. uncertainties.</p>
+<table cellpadding="2" border="1">
+<tr><th>process / observable</th><th>elec_invmass_final</th><th>mu_invmass_final</th></tr>
+<tr><td>ttbar</td><td>17572 +/- 111.09</td><td>17858 +/- 112.07</td></tr>
+<tr><td>wjets</td><td>3864 +/- 58.575</td><td>3909.1 +/- 57.814</td></tr>
+<tr><td><b>total background</b></td><td>21436 +/- 125.59</td><td>21767 +/- 126.11</td></tr>
+<tr><td>wp1000</td><td>1814.3 +/- 6.6053</td><td>1761.7 +/- 6.5204</td></tr>
+<tr><td>wp1100</td><td>1940.1 +/- 7.1358</td><td>1829.7 +/- 6.9413</td></tr>
+<tr><td>wp1200</td><td>1957.5 +/- 6.6507</td><td>1817.9 +/- 6.4211</td></tr>
+<tr><td>wp1300</td><td>1930.8 +/- 6.9167</td><td>1745.9 +/- 6.5879</td></tr>
+<tr><td>wp1400</td><td>1877.2 +/- 6.6723</td><td>1670.6 +/- 6.3107</td></tr>
+<tr><td>wp1500</td><td>1827.6 +/- 6.6298</td><td>1587.8 +/- 6.1935</td></tr>
+<tr><td>wp1600</td><td>1756.4 +/- 6.5514</td><td>1488.2 +/- 6.0451</td></tr>
+<tr><td>wp1700</td><td>1687.1 +/- 6.3158</td><td>1403.8 +/- 5.7677</td></tr>
+<tr><td>wp1800</td><td>1619.1 +/- 6.4853</td><td>1327.8 +/- 5.8781</td></tr>
+<tr><td>wp1900</td><td>1527.8 +/- 6.3199</td><td>1258.8 +/- 5.7499</td></tr>
+<tr><td>wp2000</td><td>1464.1 +/- 6.1721</td><td>1184.2 +/- 5.553</td></tr>
+<tr><td>wp2100</td><td>1391.8 +/- 5.7329</td><td>1119.4 +/- 5.1475</td></tr>
+<tr><td>wp2200</td><td>1327.1 +/- 5.577</td><td>1065.8 +/- 5.0038</td></tr>
+<tr><td>wp2300</td><td>1270.4 +/- 5.9503</td><td>1020.8 +/- 5.343</td></tr>
+<tr><td>wp2400</td><td>1222.4 +/- 5.4649</td><td>979.33 +/- 4.9027</td></tr>
+<tr><td>wp2500</td><td>1176.1 +/- 5.4095</td><td>953.68 +/- 4.8738</td></tr>
+<tr><td>wp2600</td><td>1140.7 +/- 5.1413</td><td>933.65 +/- 4.6572</td></tr>
+<tr><td>wp2700</td><td>1109.4 +/- 5.1505</td><td>923.58 +/- 4.7022</td></tr>
+<tr><td>wp2800</td><td>1087.1 +/- 5.336</td><td>919.68 +/- 4.9136</td></tr>
+<tr><td>wp2900</td><td>1074.7 +/- 5.0802</td><td>919.36 +/- 4.7058</td></tr>
+<tr><td>wp3000</td><td>1072 +/- 5.011</td><td>931.12 +/- 4.6765</td></tr>
+<tr><td>wp800</td><td>1621.5 +/- 6.2002</td><td>1634.4 +/- 6.2308</td></tr>
+<tr><td>wp900</td><td>1745.7 +/- 6.3523</td><td>1738.3 +/- 6.3499</td></tr>
+<tr><td><b>DATA</b></td><td>20238</td><td>20639</td></tr>
+</table>
+
+
+</div>
+<h1 onclick=$('div3').toggle()>3. Rate Impact of Systematic Uncertainties</h1><div class="inner" id="div3">
+<p>The table below summarises the impact of an nuisance parameter on the rate prediction of a process.</p>
+    <p>For a nuisance parameter, (gauss) indicates that this nuisance parameter has a gaussian prior, (gamma) that it has a gamma prior.</p>
+    <p>For the individual cells, (r) indicates the 'rate only' part of the uncertainty, (s) indicates the effect on the rate of an uncertainty
+    treated via template morphing (i.e., the <em>rate</em> effect of an uncertainty treated as part of the
+    template morphing; even if this is zero, the shape effect is still taken into account). Note that both effects are applied seperatly, so
+    the total rate change is about the linear sum of these two.<br/>
+    The rate change in 'plus' direction of the uncertainty is written as superscript,
+    the 'minus' direction as subscript.<br/>All numbers are in percent.</p>
+<h2>Observable 'elec_invmass_final'</h2>
+<table cellpadding="2" border="1">
+<tr><th>process / nuisance parameter</th><th>PU (gauss)</th><th>btag (gauss)</th><th>ehlteff (gauss)</th><th>elepeff (gauss)</th><th>hf (gauss)</th><th>jer (gauss)</th><th>jes (gauss)</th><th>lumi (gauss)</th><th>matching (gauss)</th><th>muhlteff (gauss)</th><th>mulepeff (gauss)</th><th>q2scale (gauss)</th><th>ttbar_rate (gauss)</th><th>zerotagshape (gauss)</th></tr>
+<tr><td>ttbar</td><td><sup>-0.06</sup><sub>+0.00</sub> (s) </td><td><sup>+2.27</sup><sub>-2.36</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>+0.03</sup><sub>-0.39</sub> (s) </td><td><sup>+3.10</sup><sub>-4.43</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td><sup>-4.33</sup><sub>-0.08</sub> (s) </td><td>---</td><td>---</td><td><sup>-4.10</sup><sub>-2.44</sub> (s) </td><td><sup>+15.00</sup><sub>-13.04</sub> (r) </td><td>---</td></tr>
+<tr><td>wjets</td><td><sup>-1.01</sup><sub>+0.00</sub> (s) </td><td><sup>+4.13</sup><sub>-7.40</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+7.49</sup><sub>-7.44</sub> (s) </td><td><sup>+2.34</sup><sub>-1.81</sub> (s) </td><td><sup>+6.93</sup><sub>-3.99</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td><sup>-0.00</sup><sub>+0.00</sub> (s) </td></tr>
+<tr><td>wp1000</td><td><sup>-0.16</sup><sub>+0.00</sub> (s) </td><td><sup>+2.78</sup><sub>-2.23</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.10</sup><sub>+0.77</sub> (s) </td><td><sup>-0.20</sup><sub>-1.91</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1100</td><td><sup>-0.22</sup><sub>+0.00</sub> (s) </td><td><sup>+3.10</sup><sub>-2.37</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.26</sup><sub>+0.82</sub> (s) </td><td><sup>-0.34</sup><sub>-1.89</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1200</td><td><sup>-0.20</sup><sub>+0.00</sub> (s) </td><td><sup>+3.54</sup><sub>-2.58</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.32</sup><sub>+1.03</sub> (s) </td><td><sup>-0.89</sup><sub>-1.93</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1300</td><td><sup>-0.23</sup><sub>+0.00</sub> (s) </td><td><sup>+4.18</sup><sub>-2.68</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.58</sup><sub>+1.18</sub> (s) </td><td><sup>-1.28</sup><sub>-1.87</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1400</td><td><sup>-0.16</sup><sub>+0.00</sub> (s) </td><td><sup>+4.90</sup><sub>-2.77</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.64</sup><sub>+1.41</sub> (s) </td><td><sup>-1.30</sup><sub>-2.01</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1500</td><td><sup>-0.16</sup><sub>+0.00</sub> (s) </td><td><sup>+5.58</sup><sub>-3.05</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.77</sup><sub>+1.48</sub> (s) </td><td><sup>-1.81</sup><sub>-2.21</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1600</td><td><sup>-0.14</sup><sub>+0.00</sub> (s) </td><td><sup>+6.43</sup><sub>-3.13</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-1.91</sup><sub>+1.66</sub> (s) </td><td><sup>-2.29</sup><sub>-2.46</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1700</td><td><sup>-0.27</sup><sub>+0.00</sub> (s) </td><td><sup>+6.89</sup><sub>-3.37</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.28</sup><sub>+1.92</sub> (s) </td><td><sup>-2.51</sup><sub>-2.58</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1800</td><td><sup>-0.24</sup><sub>+0.00</sub> (s) </td><td><sup>+7.58</sup><sub>-3.35</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.21</sup><sub>+2.14</sub> (s) </td><td><sup>-2.84</sup><sub>-2.69</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1900</td><td><sup>-0.12</sup><sub>+0.00</sub> (s) </td><td><sup>+8.29</sup><sub>-3.45</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.39</sup><sub>+2.16</sub> (s) </td><td><sup>-3.44</sup><sub>-3.17</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2000</td><td><sup>-0.39</sup><sub>+0.00</sub> (s) </td><td><sup>+8.46</sup><sub>-3.52</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.36</sup><sub>+2.20</sub> (s) </td><td><sup>-3.70</sup><sub>-3.32</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2100</td><td><sup>-0.27</sup><sub>+0.00</sub> (s) </td><td><sup>+8.84</sup><sub>-3.37</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.58</sup><sub>+2.44</sub> (s) </td><td><sup>-4.00</sup><sub>-3.69</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2200</td><td><sup>-0.29</sup><sub>+0.00</sub> (s) </td><td><sup>+8.96</sup><sub>-3.61</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.41</sup><sub>+2.46</sub> (s) </td><td><sup>-4.12</sup><sub>-3.82</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2300</td><td><sup>-0.27</sup><sub>+0.00</sub> (s) </td><td><sup>+9.40</sup><sub>-3.37</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.58</sup><sub>+2.45</sub> (s) </td><td><sup>-4.35</sup><sub>-3.97</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2400</td><td><sup>-0.33</sup><sub>+0.00</sub> (s) </td><td><sup>+9.19</sup><sub>-3.37</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.53</sup><sub>+2.57</sub> (s) </td><td><sup>-4.51</sup><sub>-4.02</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2500</td><td><sup>-0.21</sup><sub>+0.00</sub> (s) </td><td><sup>+9.18</sup><sub>-3.35</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.64</sup><sub>+2.57</sub> (s) </td><td><sup>-4.88</sup><sub>-4.18</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2600</td><td><sup>-0.31</sup><sub>+0.00</sub> (s) </td><td><sup>+8.99</sup><sub>-3.17</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.54</sup><sub>+2.85</sub> (s) </td><td><sup>-4.80</sup><sub>-4.39</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2700</td><td><sup>-0.25</sup><sub>+0.00</sub> (s) </td><td><sup>+8.42</sup><sub>-3.20</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.47</sup><sub>+2.60</sub> (s) </td><td><sup>-4.34</sup><sub>-4.34</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2800</td><td><sup>-0.28</sup><sub>+0.00</sub> (s) </td><td><sup>+8.25</sup><sub>-3.19</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.40</sup><sub>+2.28</sub> (s) </td><td><sup>-4.32</sup><sub>-4.21</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2900</td><td><sup>-0.37</sup><sub>+0.00</sub> (s) </td><td><sup>+7.88</sup><sub>-3.11</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.25</sup><sub>+2.41</sub> (s) </td><td><sup>-3.81</sup><sub>-4.08</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp3000</td><td><sup>-0.13</sup><sub>+0.00</sub> (s) </td><td><sup>+7.49</sup><sub>-2.98</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-2.01</sup><sub>+2.30</sub> (s) </td><td><sup>-3.76</sup><sub>-4.14</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp800</td><td><sup>-0.11</sup><sub>+0.00</sub> (s) </td><td><sup>+2.12</sup><sub>-2.05</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-0.98</sup><sub>+0.68</sub> (s) </td><td><sup>+0.56</sup><sub>-2.13</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp900</td><td><sup>-0.10</sup><sub>+0.00</sub> (s) </td><td><sup>+2.43</sup><sub>-2.10</sub> (s) </td><td><sup>+2.00</sup><sub>-1.96</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td><sup>-0.93</sup><sub>+0.76</sub> (s) </td><td><sup>+0.24</sup><sub>-1.92</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+</table>
+
+<h2>Observable 'mu_invmass_final'</h2>
+<table cellpadding="2" border="1">
+<tr><th>process / nuisance parameter</th><th>PU (gauss)</th><th>btag (gauss)</th><th>ehlteff (gauss)</th><th>elepeff (gauss)</th><th>hf (gauss)</th><th>jer (gauss)</th><th>jes (gauss)</th><th>lumi (gauss)</th><th>matching (gauss)</th><th>muhlteff (gauss)</th><th>mulepeff (gauss)</th><th>q2scale (gauss)</th><th>ttbar_rate (gauss)</th><th>zerotagshape (gauss)</th></tr>
+<tr><td>ttbar</td><td><sup>-0.43</sup><sub>+0.00</sub> (s) </td><td><sup>+2.39</sup><sub>-2.42</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>+0.32</sup><sub>-0.26</sub> (s) </td><td><sup>+3.24</sup><sub>-4.20</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td><sup>-2.49</sup><sub>+1.40</sub> (s) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>-2.64</sup><sub>-1.07</sub> (s) </td><td><sup>+15.00</sup><sub>-13.04</sub> (r) </td><td>---</td></tr>
+<tr><td>wjets</td><td><sup>-0.08</sup><sub>+0.00</sub> (s) </td><td><sup>+4.61</sup><sub>-6.25</sub> (s) </td><td>---</td><td>---</td><td><sup>+8.11</sup><sub>-8.06</sub> (s) </td><td><sup>+1.69</sup><sub>-0.61</sub> (s) </td><td><sup>+7.72</sup><sub>-6.55</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td><sup>+0.00</sup><sub>+0.00</sub> (s) </td></tr>
+<tr><td>wp1000</td><td><sup>-0.36</sup><sub>+0.00</sub> (s) </td><td><sup>+2.72</sup><sub>-2.27</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-1.22</sup><sub>+0.75</sub> (s) </td><td><sup>-0.11</sup><sub>-1.89</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1100</td><td><sup>-0.42</sup><sub>+0.00</sub> (s) </td><td><sup>+2.98</sup><sub>-2.38</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-1.29</sup><sub>+0.89</sub> (s) </td><td><sup>-0.50</sup><sub>-1.81</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1200</td><td><sup>-0.37</sup><sub>+0.00</sub> (s) </td><td><sup>+3.54</sup><sub>-2.51</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-1.47</sup><sub>+1.08</sub> (s) </td><td><sup>-0.74</sup><sub>-1.88</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1300</td><td><sup>-0.31</sup><sub>+0.00</sub> (s) </td><td><sup>+4.05</sup><sub>-2.66</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-1.75</sup><sub>+1.30</sub> (s) </td><td><sup>-1.38</sup><sub>-2.05</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1400</td><td><sup>-0.44</sup><sub>+0.00</sub> (s) </td><td><sup>+4.76</sup><sub>-2.76</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-1.84</sup><sub>+1.47</sub> (s) </td><td><sup>-1.90</sup><sub>-2.29</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1500</td><td><sup>-0.37</sup><sub>+0.00</sub> (s) </td><td><sup>+5.44</sup><sub>-3.03</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.03</sup><sub>+1.60</sub> (s) </td><td><sup>-2.33</sup><sub>-2.67</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1600</td><td><sup>-0.37</sup><sub>+0.00</sub> (s) </td><td><sup>+6.27</sup><sub>-3.07</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.06</sup><sub>+1.82</sub> (s) </td><td><sup>-2.34</sup><sub>-2.57</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1700</td><td><sup>-0.26</sup><sub>+0.00</sub> (s) </td><td><sup>+6.82</sup><sub>-3.23</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.21</sup><sub>+1.93</sub> (s) </td><td><sup>-3.08</sup><sub>-2.57</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1800</td><td><sup>-0.28</sup><sub>+0.00</sub> (s) </td><td><sup>+7.18</sup><sub>-3.33</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.57</sup><sub>+2.23</sub> (s) </td><td><sup>-3.35</sup><sub>-2.92</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1900</td><td><sup>-0.47</sup><sub>+0.00</sub> (s) </td><td><sup>+7.80</sup><sub>-3.26</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.39</sup><sub>+2.30</sub> (s) </td><td><sup>-3.57</sup><sub>-3.38</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2000</td><td><sup>-0.33</sup><sub>+0.00</sub> (s) </td><td><sup>+8.16</sup><sub>-3.36</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.63</sup><sub>+2.41</sub> (s) </td><td><sup>-4.08</sup><sub>-3.27</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2100</td><td><sup>-0.40</sup><sub>+0.00</sub> (s) </td><td><sup>+8.69</sup><sub>-3.54</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.69</sup><sub>+2.50</sub> (s) </td><td><sup>-4.16</sup><sub>-3.58</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2200</td><td><sup>-0.39</sup><sub>+0.00</sub> (s) </td><td><sup>+8.56</sup><sub>-3.48</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.68</sup><sub>+2.68</sub> (s) </td><td><sup>-4.33</sup><sub>-3.62</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2300</td><td><sup>-0.52</sup><sub>+0.00</sub> (s) </td><td><sup>+8.61</sup><sub>-3.43</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.74</sup><sub>+2.67</sub> (s) </td><td><sup>-4.73</sup><sub>-3.86</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2400</td><td><sup>-0.46</sup><sub>+0.00</sub> (s) </td><td><sup>+8.65</sup><sub>-3.29</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.96</sup><sub>+2.90</sub> (s) </td><td><sup>-4.66</sup><sub>-3.96</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2500</td><td><sup>-0.29</sup><sub>+0.00</sub> (s) </td><td><sup>+8.74</sup><sub>-3.15</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.76</sup><sub>+2.87</sub> (s) </td><td><sup>-4.49</sup><sub>-4.10</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2600</td><td><sup>-0.39</sup><sub>+0.00</sub> (s) </td><td><sup>+8.17</sup><sub>-3.34</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.70</sup><sub>+2.74</sub> (s) </td><td><sup>-4.16</sup><sub>-4.01</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2700</td><td><sup>-0.29</sup><sub>+0.00</sub> (s) </td><td><sup>+7.68</sup><sub>-3.02</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.66</sup><sub>+2.61</sub> (s) </td><td><sup>-3.84</sup><sub>-4.25</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2800</td><td><sup>-0.39</sup><sub>+0.00</sub> (s) </td><td><sup>+7.47</sup><sub>-3.05</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.52</sup><sub>+2.37</sub> (s) </td><td><sup>-4.16</sup><sub>-3.76</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2900</td><td><sup>-0.52</sup><sub>+0.00</sub> (s) </td><td><sup>+6.90</sup><sub>-2.88</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.26</sup><sub>+2.38</sub> (s) </td><td><sup>-3.64</sup><sub>-3.95</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp3000</td><td><sup>-0.36</sup><sub>+0.00</sub> (s) </td><td><sup>+6.81</sup><sub>-2.78</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-2.11</sup><sub>+2.21</sub> (s) </td><td><sup>-3.27</sup><sub>-3.85</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp800</td><td><sup>-0.30</sup><sub>+0.00</sub> (s) </td><td><sup>+2.13</sup><sub>-1.98</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-0.97</sup><sub>+0.61</sub> (s) </td><td><sup>+0.53</sup><sub>-2.11</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp900</td><td><sup>-0.28</sup><sub>+0.00</sub> (s) </td><td><sup>+2.42</sup><sub>-2.14</sub> (s) </td><td>---</td><td>---</td><td>---</td><td><sup>-1.12</sup><sub>+0.63</sub> (s) </td><td><sup>+0.17</sup><sub>-2.12</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td><sup>+1.00</sup><sub>-0.99</sub> (r) </td><td>---</td><td>---</td><td>---</td></tr>
+</table>
+
+
+</div>
+<h1 onclick=$('div4').toggle()>4. Nuisance Parameter Priors</h1><div class="inner" id="div4">
+
+    <p>The priors for the nuisance parameters are either Gaussian or gamma distributions. As limit cases, these can have with=0 or width=inf
+    which makes them delta or flat distributions, respectively.</p>
+    <div class="inner"><h3>Prior Parameters</h3>
+<table cellpadding="2" border="1">
+<tr><th>parameter</th><th>distribution type</th><th>distribution parameters</th></tr>
+<tr><td>jer</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>jes</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>elepeff</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>ttbar_rate</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btag</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>PU</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>ehlteff</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>mulepeff</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>q2scale</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>lumi</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>zerotagshape</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>muhlteff</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>hf</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>matching</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+</table>
+
+</div>
+    </div>
+</div>
+<h1 onclick=$('div5').toggle()>5. Basic Model Plots</h1><div class="inner" id="div5">
+<h2>Stackplots</h2>
+<p>Everything normalized to expectation, i.e., to the normalization in the template input file, possibly scaled via the python script file.</p>
+<p>Color Code:</p><ul>
+<li><span style="background: #edd400;">&nbsp;&nbsp;&nbsp;</span> ttbar</li>
+<li><span style="background: #f57900;">&nbsp;&nbsp;&nbsp;</span> wjets</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1000</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp1100</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp1200</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1300</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp1400</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp1500</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1600</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp1700</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp1800</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1900</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2000</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp2100</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp2200</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2300</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp2400</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp2500</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2600</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp2700</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp2800</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2900</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp3000</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp800</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp900</li>
+</ul>
+<p>Observable 'elec_invmass_final':<br /><img src="plots/elec_invmass_final_stack.png" /></p>
+<p>Observable 'mu_invmass_final':<br /><img src="plots/mu_invmass_final_stack.png" /></p>
+
+</div>
+<h1 onclick=$('div6').toggle()>6. Limits Bayesian</h1><div class="inner" id="div6">
+<p><table cellpadding="2" border="1">
+<tr><th>signal process</th><th>expected limit</th><th>expected limit (central 1sigma)</th><th>expected limit (central 2sigma)</th><th>observed limit</th></tr>
+<tr><td>800</td><td>0.113</td><td>0.082--0.162</td><td>0.0619--0.217</td><td>0.0595 +- 0.000242</td></tr>
+<tr><td>900</td><td>0.0881</td><td>0.0631--0.124</td><td>0.0471--0.165</td><td>0.047 +- 0.00032</td></tr>
+<tr><td>1000</td><td>0.0674</td><td>0.0484--0.096</td><td>0.0366--0.126</td><td>0.0363 +- 0.000277</td></tr>
+<tr><td>1100</td><td>0.0503</td><td>0.0357--0.0695</td><td>0.0266--0.0955</td><td>0.0256 +- 8.5e-05</td></tr>
+<tr><td>1200</td><td>0.0412</td><td>0.0291--0.0572</td><td>0.0208--0.0768</td><td>0.0217 +- 0.000181</td></tr>
+<tr><td>1300</td><td>0.0352</td><td>0.0247--0.0495</td><td>0.018--0.0682</td><td>0.021 +- 0.000223</td></tr>
+<tr><td>1400</td><td>0.0325</td><td>0.0222--0.0475</td><td>0.0153--0.0641</td><td>0.0191 +- 0.000163</td></tr>
+<tr><td>1500</td><td>0.0289</td><td>0.0196--0.0423</td><td>0.0144--0.0561</td><td>0.0157 +- 0.000122</td></tr>
+<tr><td>1600</td><td>0.0249</td><td>0.0173--0.0362</td><td>0.0127--0.05</td><td>0.0151 +- 0.000125</td></tr>
+<tr><td>1700</td><td>0.0222</td><td>0.0153--0.0327</td><td>0.0106--0.045</td><td>0.0154 +- 9.97e-05</td></tr>
+<tr><td>1800</td><td>0.0201</td><td>0.0138--0.0294</td><td>0.00946--0.0414</td><td>0.0179 +- 0.000125</td></tr>
+<tr><td>1900</td><td>0.0184</td><td>0.0125--0.0271</td><td>0.00845--0.0393</td><td>0.0172 +- 0.000202</td></tr>
+<tr><td>2000</td><td>0.0173</td><td>0.0119--0.0261</td><td>0.00814--0.0364</td><td>0.0151 +- 0.000223</td></tr>
+<tr><td>2100</td><td>0.0162</td><td>0.011--0.0246</td><td>0.00793--0.0356</td><td>0.0148 +- 8.98e-05</td></tr>
+<tr><td>2200</td><td>0.016</td><td>0.0108--0.0241</td><td>0.00765--0.0357</td><td>0.0151 +- 0.000173</td></tr>
+<tr><td>2300</td><td>0.0154</td><td>0.0099--0.0235</td><td>0.00698--0.0345</td><td>0.0151 +- 0.000294</td></tr>
+<tr><td>2400</td><td>0.0146</td><td>0.00944--0.0221</td><td>0.00618--0.0314</td><td>0.0139 +- 0.000192</td></tr>
+<tr><td>2500</td><td>0.0143</td><td>0.00915--0.0217</td><td>0.00613--0.0331</td><td>0.0135 +- 0.000179</td></tr>
+<tr><td>2600</td><td>0.0145</td><td>0.0092--0.0219</td><td>0.00606--0.0325</td><td>0.0139 +- 0.000172</td></tr>
+<tr><td>2700</td><td>0.0152</td><td>0.00969--0.0231</td><td>0.00653--0.0338</td><td>0.0147 +- 0.000207</td></tr>
+<tr><td>2800</td><td>0.0167</td><td>0.0108--0.0256</td><td>0.00705--0.0361</td><td>0.0167 +- 0.000221</td></tr>
+<tr><td>2900</td><td>0.0187</td><td>0.0116--0.0282</td><td>0.00805--0.0422</td><td>0.018 +- 0.00023</td></tr>
+<tr><td>3000</td><td>0.0204</td><td>0.0132--0.0312</td><td>0.0087--0.0453</td><td>0.0193 +- 0.000335</td></tr>
+</table>
+</p>
+<p><p><img src="plots/limit_band_plot-bayesian.png" /></p></p>
+<p><p><img src="plots/limit_band_plot-log-bayesian.png" /></p></p>

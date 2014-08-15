@@ -1,0 +1,224 @@
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_BTAGUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JERUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1500Left_JESUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left/Wprime1600Left_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left/Wprime1600Left_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left/Wprime1600Left_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_BTAGDOWN/Wprime1600Left_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_BTAGDOWN/Wprime1600Left_BTAGDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_BTAGDOWN/Wprime1600Left_BTAGDOWN_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_BTAGUP/Wprime1600Left_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_BTAGUP/Wprime1600Left_BTAGUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_BTAGUP/Wprime1600Left_BTAGUP_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JERDOWN/Wprime1600Left_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JERDOWN/Wprime1600Left_JERDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JERDOWN/Wprime1600Left_JERDOWN_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JERUP/Wprime1600Left_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JERUP/Wprime1600Left_JERUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JERUP/Wprime1600Left_JERUP_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JESDOWN/Wprime1600Left_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JESDOWN/Wprime1600Left_JESDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JESDOWN/Wprime1600Left_JESDOWN_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JESUP/Wprime1600Left_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JESUP/Wprime1600Left_JESUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29Jan/Wprime1600Left_JESUP/Wprime1600Left_JESUP_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime1600Left_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_BTAGUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JERUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2000Left_JESUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_BTAGUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JERUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2100Left_JESUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_BTAGUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JERUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2200Left_JESUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_BTAGUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JERUP.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESDOWN.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESDOWN.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESDOWN.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESDOWN.root exist?).
+Pass "-f" argument to force re-creation of output file.
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESUP.root
+Error in <TFile::TFile>: file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESUP.root already exists
+Error in <TFileMerger::OutputFile>: cannot open the MERGER output file /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESUP.root
+hadd error opening target file (does /uscms_data/d2/dsperka/8TeV/Samples/29Jan_All/Wprime2300Left_JESUP.root exist?).
+Pass "-f" argument to force re-creation of output file.

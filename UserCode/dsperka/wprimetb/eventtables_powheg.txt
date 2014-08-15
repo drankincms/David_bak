@@ -1,0 +1,170 @@
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected data, and background  events in the electron channel. 
+For the background samples, the expectation is computed
+corresponding to an integrated luminosity of $19490.0 \pbinv$.
+\label{tab:el_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+   & & \multicolumn{4}{c|}{Number of b-tagged jets} & $p_{T}^{top}>$ 85,$p_{T}^{jet1,jet2}>$140,130$<m_{top}<$210 \\ 
+ & Pre selection & = 0 & = 1 
+& $>$ 0 & $>$ 1  & $>$0 b-tagged jet    \\ \hline
+{\bf Data} & 274754 & 212401 & 53690 & 62353 & 21654 & 18323   \\ \hline
+\multicolumn{6}{l}{\bf Background:}     \\ \hline
+$t\overline t$ &65253 & 25942 & 32120 & 39311 & 18556 & 13411  \\ 
+$tqb$ &2207 & 712 & 1284 & 1495 & 440  & 508  \\ 
+$\overline{t}qb$ &1119 & 353 & 653 & 766 & 241  & 251  \\ 
+$tW$  &2365 & 1066 & 1155 & 1299 & 376  & 452  \\ 
+$\overline{t}W$ &2413 & 1034 & 1187 & 1379 & 450  & 445  \\ 
+$tb$ & 225 & 55 & 112 & 171 & 84 & 57    \\ 
+$\overline{t}b$ & 88 & 21 & 43 & 68 & 34 & 20    \\ 
+$W(\rightarrow)\ell\nu$+light jets &108090 & 104858 & 3216 & 3232 & 40  & 707  \\ 
+$W(\rightarrow)\ell\nu$+c jets &53202 & 43488 & 9562 & 9714 & 421  & 1735  \\ 
+$W(\rightarrow)\ell\nu$+b jets &5939 & 2739 & 2895 & 3199 & 611  & 685  \\ 
+$Z/\gamma^*(\rightarrow\ell\ell$)+jets &14757 & 13525 & 1156 & 1231 & 137  & 221 \\ 
+$WW$ &1777 & 1595 & 174 & 182 & 16  & 44 \\ 
+{\bf Total Background} &257122 & 195313 & 53402 & 61809 & 21288 & 18460 \\ \hline
+{\bf MC / Data} &0.936 & 0.92 & 0.995 & 0.991 & 0.983 & 1.007 \\ \hline
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+
+
+
+\begin{table}[!h!tb]
+\begin{center}
+\small
+     \caption{
+       Number of selected  signal events in the electron channel.
+For the  signal samples, the expectation is computed
+corresponding to an integrated luminosity of $19490.0 \pbinv$.
+\label{tab:el_cut_flow_Wprime}
+        }
+\begin{tabular}{l|c|c|c|c|c|c} 
+\hline 
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline 
+   & & \multicolumn{4}{c|}{Number of b-tagged jets} & $p_{T}^{top}>$ 85,$p_{T}^{jet1,jet2}>$140 \\ 
+ & Pre selection & = 0 & = 1
+& $>$ 0 & $>$ 1 & $>$0 b-tagged jet      \\ \hline 
+\multicolumn{6}{l}{\bf Signal:}     \\ \hline 
+$tb$ & 314 & 75 & 155 & 238 & 118 & 77    \\ 
+{\underline {\bf ${\PWpr}_R\rightarrow tb$}} & &  &  & & \\ 
+M(${\PWpr}_R=$) 800 GeV &6526 & 1516 & 3310 & 5010 & 2204 & 3277   \\ 
+M(${\PWpr}_R=$) 900 GeV &4074 & 1016 & 2069 & 3058 & 1301 & 2125   \\ 
+M(${\PWpr}_R=$) 1000 GeV &2602 & 696 & 1313 & 1906 & 788 & 1371   \\ 
+M(${\PWpr}_R=$) 1100 GeV &1752 & 492 & 888 & 1260 & 502 & 928   \\ 
+M(${\PWpr}_R=$) 1200 GeV &1156 & 341 & 588 & 815 & 310 & 609   \\ 
+M(${\PWpr}_R=$) 1300 GeV &761 & 236 & 385 & 525 & 194 & 395   \\ 
+M(${\PWpr}_R=$) 1400 GeV &505 & 164 & 255 & 341 & 121 & 257   \\ 
+M(${\PWpr}_R=$) 1500 GeV &337 & 112 & 170 & 225 & 78 & 169   \\ 
+M(${\PWpr}_R=$) 1600 GeV &226 & 79 & 113 & 147 & 49 & 111   \\ 
+M(${\PWpr}_R=$) 1700 GeV &152 & 54 & 76 & 98 & 32 & 73   \\ 
+M(${\PWpr}_R=$) 1800 GeV &103 & 38 & 52 & 66 & 21 & 49   \\ 
+M(${\PWpr}_R=$) 1900 GeV &70 & 27 & 35 & 44 & 14 & 32   \\ 
+M(${\PWpr}_R=$) 2000 GeV &48 & 18 & 24 & 30 & 9 & 22   \\ 
+M(${\PWpr}_R=$) 2100 GeV &33 & 13 & 16 & 20 & 6 & 15   \\ 
+M(${\PWpr}_R=$) 2200 GeV &23 & 9 & 11 & 14 & 4 & 10   \\ 
+M(${\PWpr}_R=$) 2300 GeV &16 & 6 & 8 & 10 & 3 & 7   \\ 
+M(${\PWpr}_R=$) 2500 GeV &8 & 3 & 4 & 5 & 2 & 3   \\ 
+M(${\PWpr}_R=$) 2400 GeV &11 & 4 & 6 & 7 & 2 & 5   \\ 
+M(${\PWpr}_R=$) 2600 GeV &6 & 2 & 3 & 4 & 1 & 2   \\ 
+M(${\PWpr}_R=$) 2700 GeV &4 & 2 & 2 & 3 & 1 & 2   \\ 
+M(${\PWpr}_R=$) 2800 GeV &3 & 1 & 2 & 2 & 1 & 1   \\ 
+M(${\PWpr}_R=$) 2900 GeV &2 & 1 & 1 & 2 & 1 & 1   \\ 
+M(${\PWpr}_R=$) 3000 GeV &2 & 1 & 1 & 1 & 0 & 1   \\ 
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected data, and background  events in the muon channel. 
+For the background samples, the expectation is computed
+corresponding to an integrated luminosity of $19490.0 \pbinv$.
+\label{tab:mu_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+   & & \multicolumn{4}{c|}{Number of b-tagged jets} & $p_{T}^{top}>$ 85,$p_{T}^{jet1,jet2}>$140,130$<m_{top}<$210 \\ 
+ & Pre selection & = 0 & = 1 
+& $>$ 0 & $>$ 1  & $>$0 b-tagged jet    \\ \hline
+{\bf Data} & 325495 & 253185 & 62511 & 72310 & 24642 & 20481   \\ \hline
+\multicolumn{6}{l}{\bf Background:}     \\ \hline
+$t\overline t$ &74875 & 30187 & 36507 & 44688 & 20859 & 15043  \\ 
+$tqb$ &2562 & 828 & 1483 & 1734 & 506  & 575  \\ 
+$\overline{t}qb$ &1354 & 444 & 788 & 910 & 256  & 285  \\ 
+$tW$  &2738 & 1247 & 1312 & 1492 & 439  & 476  \\ 
+$\overline{t}W$ &2737 & 1216 & 1328 & 1520 & 462  & 496  \\ 
+$tb$ & 266 & 60 & 134 & 206 & 99 & 64    \\ 
+$\overline{t}b$ & 121 & 29 & 62 & 92 & 43 & 31    \\ 
+$W(\rightarrow)\ell\nu$+light jets &145253 & 141075 & 4132 & 4178 & 71  & 778  \\ 
+$W(\rightarrow)\ell\nu$+c jets &66300 & 54945 & 11213 & 11355 & 372  & 2080  \\ 
+$W(\rightarrow)\ell\nu$+b jets &8693 & 4254 & 3961 & 4438 & 908  & 834  \\ 
+$Z/\gamma^*(\rightarrow\ell\ell$)+jets &19015 & 17447 & 1495 & 1567 & 142  & 291 \\ 
+$WW$ &2252 & 2027 & 218 & 225 & 17  & 48 \\ 
+{\bf Total Background} &325777 & 253671 & 62437 & 72107 & 24032 & 20907 \\ \hline
+{\bf MC / Data} &1.001 & 1.002 & 0.999 & 0.997 & 0.975 & 1.021 \\ \hline
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+
+
+
+\begin{table}[!h!tb]
+\begin{center}
+\small
+     \caption{
+       Number of selected  signal events in the muon channel.
+For the  signal samples, the expectation is computed
+corresponding to an integrated luminosity of $19490.0 \pbinv$.
+\label{tab:mu_cut_flow_Wprime}
+        }
+\begin{tabular}{l|c|c|c|c|c|c} 
+\hline 
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline 
+   & & \multicolumn{4}{c|}{Number of b-tagged jets} & $p_{T}^{top}>$ 85,$p_{T}^{jet1,jet2}>$140 \\ 
+ & Pre selection & = 0 & = 1
+& $>$ 0 & $>$ 1 & $>$0 b-tagged jet      \\ \hline 
+\multicolumn{6}{l}{\bf Signal:}     \\ \hline 
+$tb$ & 387 & 89 & 196 & 298 & 142 & 95    \\ 
+{\underline {\bf ${\PWpr}_R\rightarrow tb$}} & &  &  & & \\ 
+M(${\PWpr}_R=$) 800 GeV &7626 & 1789 & 3891 & 5837 & 2538 & 3737   \\ 
+M(${\PWpr}_R=$) 900 GeV &4710 & 1185 & 2396 & 3524 & 1485 & 2385   \\ 
+M(${\PWpr}_R=$) 1000 GeV &2925 & 783 & 1490 & 2141 & 874 & 1497   \\ 
+M(${\PWpr}_R=$) 1100 GeV &1938 & 544 & 984 & 1394 & 554 & 987   \\ 
+M(${\PWpr}_R=$) 1200 GeV &1260 & 373 & 639 & 886 & 340 & 636   \\ 
+M(${\PWpr}_R=$) 1300 GeV &813 & 254 & 410 & 559 & 208 & 403   \\ 
+M(${\PWpr}_R=$) 1400 GeV &529 & 171 & 267 & 358 & 129 & 258   \\ 
+M(${\PWpr}_R=$) 1500 GeV &349 & 118 & 174 & 231 & 81 & 166   \\ 
+M(${\PWpr}_R=$) 1600 GeV &230 & 80 & 114 & 150 & 52 & 106   \\ 
+M(${\PWpr}_R=$) 1700 GeV &154 & 56 & 76 & 98 & 33 & 69   \\ 
+M(${\PWpr}_R=$) 1800 GeV &104 & 38 & 51 & 65 & 22 & 46   \\ 
+M(${\PWpr}_R=$) 1900 GeV &71 & 27 & 35 & 44 & 14 & 30   \\ 
+M(${\PWpr}_R=$) 2000 GeV &48 & 19 & 23 & 30 & 10 & 20   \\ 
+M(${\PWpr}_R=$) 2100 GeV &33 & 13 & 16 & 20 & 7 & 14   \\ 
+M(${\PWpr}_R=$) 2200 GeV &23 & 9 & 11 & 14 & 5 & 9   \\ 
+M(${\PWpr}_R=$) 2300 GeV &16 & 6 & 8 & 10 & 3 & 6   \\ 
+M(${\PWpr}_R=$) 2500 GeV &8 & 3 & 4 & 5 & 2 & 3   \\ 
+M(${\PWpr}_R=$) 2400 GeV &12 & 5 & 5 & 7 & 2 & 4   \\ 
+M(${\PWpr}_R=$) 2600 GeV &6 & 2 & 3 & 4 & 1 & 2   \\ 
+M(${\PWpr}_R=$) 2700 GeV &4 & 2 & 2 & 3 & 1 & 2   \\ 
+M(${\PWpr}_R=$) 2800 GeV &3 & 1 & 2 & 2 & 1 & 1   \\ 
+M(${\PWpr}_R=$) 2900 GeV &3 & 1 & 1 & 2 & 1 & 1   \\ 
+M(${\PWpr}_R=$) 3000 GeV &2 & 1 & 1 & 1 & 0 & 1   \\ 
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}

@@ -1,0 +1,10 @@
+Using DBS instance at: http://cmsdbsprod.cern.ch/cms_dbs_ph_analysis_02/servlet/DBSServlet
+-------------------------------------------------------
+dataset	
+
+/SingleMu/yumiceva-ttbsm_v9_Run2011A-PromptReco-v6-f8e845a0332c56398831da6c30999af1/USER
+/SingleMu/vasquez-ttbsm_v9_Run2011A-PromptReco-v4-f8e845a0332c56398831da6c30999af1/USER
+/SingleMu/vasquez-ttbsm_v9_Run2011A-May10ReReco-f8e845a0332c56398831da6c30999af1/USER
+/SingleMu/vasquez-ttbsm_v9_Run2011A-05Aug2011-f8e845a0332c56398831da6c30999af1/USER
+/SingleMu/guragain-ttbsm_v9_Run2011B-PromptReco-v1_178162_180252-f8e845a0332c56398831da6c30999af1/USER
+/SingleMu/guragain-ttbsm_v9_Run2011B-PromptReco-v1_160404-179434-f8e845a0332c56398831da6c30999af1/USER

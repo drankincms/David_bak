@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title>theta-auto Report</title>
+    <script type="text/javascript" src="js/prototype.js"></script>
+    <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="js/lightbox.js"></script>
+    <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+    <style type="text/css">
+    body {margin: 30px; font-family: Verdana, Arial, sans-serif; font-size: 12px; background:#eee;}
+    h1, h2, h3 { padding: 0.2ex; padding-left:.8ex;}
+    h1 {font-size: 150%%; background: #d44;}
+    h2 {font-size: 110%%; background: #f88; padding-left:1.3ex;}
+    h3 {font-size: 100%%; background: #aaa; padding-left:1.3ex;}
+    .inner {padding-left: 3ex;}
+    a img{ border: none;}
+    p {margin:0 0 0 0; margin-top: 1.3ex;}
+    ul {margin:0 0 0 0;}
+    </style>
+    </head><body>
+    <p>Hint: click on top-level headers to toggle visibility of that section.</p>
+    <h1 onclick=$('div1').toggle()>1. General Model Info</h1><div class="inner" id="div1">
+<p>Observables (xmin, xmax, nbins):</p>
+<ul>
+<li>elec_invmass_final (100, 4000, 20)</li>
+</ul>
+<p>Background processes:</p>
+<ul>
+<li>ttbar</li>
+<li>wjets</li>
+</ul>
+<p>Signal processes:</p><ul>
+<li>wp1000</li>
+<li>wp1100</li>
+<li>wp1200</li>
+<li>wp1300</li>
+<li>wp1400</li>
+<li>wp1500</li>
+<li>wp1600</li>
+<li>wp1700</li>
+<li>wp1800</li>
+<li>wp1900</li>
+<li>wp2000</li>
+<li>wp2100</li>
+<li>wp2200</li>
+<li>wp2300</li>
+<li>wp2400</li>
+<li>wp2500</li>
+<li>wp2600</li>
+<li>wp2700</li>
+<li>wp2800</li>
+<li>wp2900</li>
+<li>wp3000</li>
+<li>wp800</li>
+<li>wp900</li>
+</ul>
+<p>Nuisance parameters (includes only those which apply to the background-only model):</p>
+<ul>
+<li>PU (morph only)</li>
+<li>btag (morph only)</li>
+<li>ehlteff (rate only)</li>
+<li>elepeff (rate only)</li>
+<li>hf (morph only)</li>
+<li>jer (morph only)</li>
+<li>jes (morph only)</li>
+<li>lumi (rate only)</li>
+<li>matching (morph only)</li>
+<li>q2scale (morph only)</li>
+<li>ttbar_rate (rate only)</li>
+<li>zerotagshape (morph only)</li>
+</ul>
+
+</div>
+<h1 onclick=$('div2').toggle()>2. Rate Summary</h1><div class="inner" id="div2">
+<p>Rates for all observables and processes as given by the 'nominal' templates. If errors are given, they are MC stat. uncertainties.</p>
+<table cellpadding="2" border="1">
+<tr><th>process / observable</th><th>elec_invmass_final</th></tr>
+<tr><td>ttbar</td><td>17566 +/- 110.69</td></tr>
+<tr><td>wjets</td><td>3361.7 +/- 48.699</td></tr>
+<tr><td><b>total background</b></td><td>20928 +/- 120.93</td></tr>
+<tr><td>wp1000</td><td>1819.8 +/- 6.5929</td></tr>
+<tr><td>wp1100</td><td>1946.3 +/- 7.1234</td></tr>
+<tr><td>wp1200</td><td>1964.6 +/- 6.6407</td></tr>
+<tr><td>wp1300</td><td>1937.8 +/- 6.9057</td></tr>
+<tr><td>wp1400</td><td>1883.9 +/- 6.6623</td></tr>
+<tr><td>wp1500</td><td>1834.2 +/- 6.6199</td></tr>
+<tr><td>wp1600</td><td>1762.7 +/- 6.5414</td></tr>
+<tr><td>wp1700</td><td>1694.1 +/- 6.3076</td></tr>
+<tr><td>wp1800</td><td>1625.6 +/- 6.4767</td></tr>
+<tr><td>wp1900</td><td>1534.7 +/- 6.3129</td></tr>
+<tr><td>wp2000</td><td>1470.9 +/- 6.166</td></tr>
+<tr><td>wp2100</td><td>1398.2 +/- 5.7278</td></tr>
+<tr><td>wp2200</td><td>1333.9 +/- 5.5722</td></tr>
+<tr><td>wp2300</td><td>1277.8 +/- 5.9475</td></tr>
+<tr><td>wp2400</td><td>1229 +/- 5.4615</td></tr>
+<tr><td>wp2500</td><td>1180.6 +/- 5.4022</td></tr>
+<tr><td>wp2600</td><td>1146.5 +/- 5.1372</td></tr>
+<tr><td>wp2700</td><td>1114.7 +/- 5.1459</td></tr>
+<tr><td>wp2800</td><td>1093.6 +/- 5.3344</td></tr>
+<tr><td>wp2900</td><td>1081 +/- 5.0786</td></tr>
+<tr><td>wp3000</td><td>1075.9 +/- 5.0031</td></tr>
+<tr><td>wp800</td><td>1625.8 +/- 6.1876</td></tr>
+<tr><td>wp900</td><td>1751.5 +/- 6.3417</td></tr>
+<tr><td><b>DATA</b></td><td>20268</td></tr>
+</table>
+
+
+</div>
+<h1 onclick=$('div3').toggle()>3. Rate Impact of Systematic Uncertainties</h1><div class="inner" id="div3">
+<p>The table below summarises the impact of an nuisance parameter on the rate prediction of a process.</p>
+    <p>For a nuisance parameter, (gauss) indicates that this nuisance parameter has a gaussian prior, (gamma) that it has a gamma prior.</p>
+    <p>For the individual cells, (r) indicates the 'rate only' part of the uncertainty, (s) indicates the effect on the rate of an uncertainty
+    treated via template morphing (i.e., the <em>rate</em> effect of an uncertainty treated as part of the
+    template morphing; even if this is zero, the shape effect is still taken into account). Note that both effects are applied seperatly, so
+    the total rate change is about the linear sum of these two.<br/>
+    The rate change in 'plus' direction of the uncertainty is written as superscript,
+    the 'minus' direction as subscript.<br/>All numbers are in percent.</p>
+<h2>Observable 'elec_invmass_final'</h2>
+<table cellpadding="2" border="1">
+<tr><th>process / nuisance parameter</th><th>PU (gauss)</th><th>btag (gauss)</th><th>ehlteff (gauss)</th><th>elepeff (gauss)</th><th>hf (gauss)</th><th>jer (gauss)</th><th>jes (gauss)</th><th>lumi (gauss)</th><th>matching (gauss)</th><th>q2scale (gauss)</th><th>ttbar_rate (gauss)</th><th>zerotagshape (gauss)</th></tr>
+<tr><td>ttbar</td><td><sup>-0.04</sup><sub>+0.00</sub> (s) </td><td><sup>+2.27</sup><sub>-2.35</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>+0.04</sup><sub>-0.40</sub> (s) </td><td><sup>+3.14</sup><sub>-4.47</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td><sup>-4.24</sup><sub>-0.10</sub> (s) </td><td><sup>-4.05</sup><sub>-2.48</sub> (s) </td><td><sup>+15.00</sup><sub>-13.04</sub> (r) </td><td>---</td></tr>
+<tr><td>wjets</td><td><sup>-1.07</sup><sub>+0.00</sub> (s) </td><td><sup>+4.45</sup><sub>-7.70</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+10.47</sup><sub>-10.42</sub> (s) </td><td><sup>+1.88</sup><sub>-1.40</sub> (s) </td><td><sup>+6.65</sup><sub>-3.03</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td><sup>-0.00</sup><sub>+0.00</sub> (s) </td></tr>
+<tr><td>wp1000</td><td><sup>-0.16</sup><sub>+0.00</sub> (s) </td><td><sup>+2.79</sup><sub>-2.23</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.12</sup><sub>+0.79</sub> (s) </td><td><sup>-0.23</sup><sub>-1.90</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1100</td><td><sup>-0.23</sup><sub>+0.00</sub> (s) </td><td><sup>+3.09</sup><sub>-2.37</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.28</sup><sub>+0.82</sub> (s) </td><td><sup>-0.38</sup><sub>-1.92</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1200</td><td><sup>-0.19</sup><sub>+0.00</sub> (s) </td><td><sup>+3.53</sup><sub>-2.58</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.34</sup><sub>+1.05</sub> (s) </td><td><sup>-0.93</sup><sub>-1.94</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1300</td><td><sup>-0.23</sup><sub>+0.00</sub> (s) </td><td><sup>+4.19</sup><sub>-2.67</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.61</sup><sub>+1.19</sub> (s) </td><td><sup>-1.33</sup><sub>-1.90</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1400</td><td><sup>-0.16</sup><sub>+0.00</sub> (s) </td><td><sup>+4.89</sup><sub>-2.77</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.67</sup><sub>+1.44</sub> (s) </td><td><sup>-1.36</sup><sub>-2.01</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1500</td><td><sup>-0.16</sup><sub>+0.00</sub> (s) </td><td><sup>+5.56</sup><sub>-3.05</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.81</sup><sub>+1.51</sub> (s) </td><td><sup>-1.87</sup><sub>-2.22</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1600</td><td><sup>-0.15</sup><sub>+0.00</sub> (s) </td><td><sup>+6.42</sup><sub>-3.14</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.95</sup><sub>+1.70</sub> (s) </td><td><sup>-2.35</sup><sub>-2.48</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1700</td><td><sup>-0.27</sup><sub>+0.00</sub> (s) </td><td><sup>+6.86</sup><sub>-3.37</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.31</sup><sub>+1.96</sub> (s) </td><td><sup>-2.57</sup><sub>-2.61</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1800</td><td><sup>-0.24</sup><sub>+0.00</sub> (s) </td><td><sup>+7.56</sup><sub>-3.35</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.25</sup><sub>+2.17</sub> (s) </td><td><sup>-2.89</sup><sub>-2.74</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp1900</td><td><sup>-0.12</sup><sub>+0.00</sub> (s) </td><td><sup>+8.28</sup><sub>-3.44</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.43</sup><sub>+2.21</sub> (s) </td><td><sup>-3.49</sup><sub>-3.18</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2000</td><td><sup>-0.39</sup><sub>+0.00</sub> (s) </td><td><sup>+8.42</sup><sub>-3.51</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.41</sup><sub>+2.25</sub> (s) </td><td><sup>-3.79</sup><sub>-3.33</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2100</td><td><sup>-0.29</sup><sub>+0.00</sub> (s) </td><td><sup>+8.80</sup><sub>-3.36</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.61</sup><sub>+2.49</sub> (s) </td><td><sup>-4.06</sup><sub>-3.72</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2200</td><td><sup>-0.29</sup><sub>+0.00</sub> (s) </td><td><sup>+8.92</sup><sub>-3.60</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.46</sup><sub>+2.50</sub> (s) </td><td><sup>-4.21</sup><sub>-3.83</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2300</td><td><sup>-0.26</sup><sub>+0.00</sub> (s) </td><td><sup>+9.36</sup><sub>-3.37</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.60</sup><sub>+2.48</sub> (s) </td><td><sup>-4.43</sup><sub>-4.00</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2400</td><td><sup>-0.32</sup><sub>+0.00</sub> (s) </td><td><sup>+9.17</sup><sub>-3.37</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.59</sup><sub>+2.63</sub> (s) </td><td><sup>-4.59</sup><sub>-4.09</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2500</td><td><sup>-0.22</sup><sub>+0.00</sub> (s) </td><td><sup>+9.17</sup><sub>-3.35</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.66</sup><sub>+2.61</sub> (s) </td><td><sup>-4.97</sup><sub>-4.18</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2600</td><td><sup>-0.31</sup><sub>+0.00</sub> (s) </td><td><sup>+8.98</sup><sub>-3.16</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.57</sup><sub>+2.89</sub> (s) </td><td><sup>-4.86</sup><sub>-4.44</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2700</td><td><sup>-0.25</sup><sub>+0.00</sub> (s) </td><td><sup>+8.41</sup><sub>-3.18</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.49</sup><sub>+2.65</sub> (s) </td><td><sup>-4.38</sup><sub>-4.36</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2800</td><td><sup>-0.29</sup><sub>+0.00</sub> (s) </td><td><sup>+8.22</sup><sub>-3.18</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.44</sup><sub>+2.34</sub> (s) </td><td><sup>-4.40</sup><sub>-4.24</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp2900</td><td><sup>-0.38</sup><sub>+0.00</sub> (s) </td><td><sup>+7.87</sup><sub>-3.10</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.28</sup><sub>+2.42</sub> (s) </td><td><sup>-3.88</sup><sub>-4.13</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp3000</td><td><sup>-0.13</sup><sub>+0.00</sub> (s) </td><td><sup>+7.51</sup><sub>-2.98</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-2.02</sup><sub>+2.31</sub> (s) </td><td><sup>-3.84</sup><sub>-4.18</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp800</td><td><sup>-0.10</sup><sub>+0.00</sub> (s) </td><td><sup>+2.12</sup><sub>-2.05</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-1.01</sup><sub>+0.68</sub> (s) </td><td><sup>+0.52</sup><sub>-2.14</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td>wp900</td><td><sup>-0.11</sup><sub>+0.00</sub> (s) </td><td><sup>+2.43</sup><sub>-2.11</sub> (s) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td><sup>+3.00</sup><sub>-2.91</sub> (r) </td><td>---</td><td><sup>-0.95</sup><sub>+0.78</sub> (s) </td><td><sup>+0.20</sup><sub>-1.94</sub> (s) </td><td><sup>+4.40</sup><sub>-4.21</sub> (r) </td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+</table>
+
+
+</div>
+<h1 onclick=$('div4').toggle()>4. Nuisance Parameter Priors</h1><div class="inner" id="div4">
+
+    <p>The priors for the nuisance parameters are either Gaussian or gamma distributions. As limit cases, these can have with=0 or width=inf
+    which makes them delta or flat distributions, respectively.</p>
+    <div class="inner"><h3>Prior Parameters</h3>
+<table cellpadding="2" border="1">
+<tr><th>parameter</th><th>distribution type</th><th>distribution parameters</th></tr>
+<tr><td>jer</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>jes</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>elepeff</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>ttbar_rate</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btag</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>PU</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>ehlteff</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>q2scale</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>zerotagshape</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>lumi</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>hf</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>matching</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+</table>
+
+</div>
+    </div>
+</div>
+<h1 onclick=$('div5').toggle()>5. Basic Model Plots</h1><div class="inner" id="div5">
+<h2>Stackplots</h2>
+<p>Everything normalized to expectation, i.e., to the normalization in the template input file, possibly scaled via the python script file.</p>
+<p>Color Code:</p><ul>
+<li><span style="background: #edd400;">&nbsp;&nbsp;&nbsp;</span> ttbar</li>
+<li><span style="background: #f57900;">&nbsp;&nbsp;&nbsp;</span> wjets</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1000</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp1100</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp1200</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1300</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp1400</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp1500</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1600</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp1700</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp1800</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp1900</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2000</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp2100</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp2200</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2300</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp2400</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp2500</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2600</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp2700</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp2800</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp2900</li>
+<li><span style="background: #a40000;">&nbsp;&nbsp;&nbsp;</span> wp3000</li>
+<li><span style="background: #ef2929;">&nbsp;&nbsp;&nbsp;</span> wp800</li>
+<li><span style="background: #cc0000;">&nbsp;&nbsp;&nbsp;</span> wp900</li>
+</ul>
+<p>Observable 'elec_invmass_final':<br /><img src="plots/elec_invmass_final_stack.png" /></p>
+
+</div>
+<h1 onclick=$('div6').toggle()>6. Limits Bayesian</h1><div class="inner" id="div6">
+<p><table cellpadding="2" border="1">
+<tr><th>signal process</th><th>expected limit</th><th>expected limit (central 1sigma)</th><th>expected limit (central 2sigma)</th><th>observed limit</th></tr>
+<tr><td>800</td><td>0.178</td><td>0.126--0.246</td><td>0.0927--0.354</td><td>0.0831 +- 0.00033</td></tr>
+<tr><td>900</td><td>0.139</td><td>0.0978--0.201</td><td>0.0708--0.265</td><td>0.0534 +- 0.000275</td></tr>
+<tr><td>1000</td><td>0.0966</td><td>0.0683--0.133</td><td>0.0488--0.194</td><td>0.0451 +- 0.000661</td></tr>
+<tr><td>1100</td><td>0.0717</td><td>0.0508--0.0991</td><td>0.0386--0.137</td><td>0.0375 +- 0.0004</td></tr>
+<tr><td>1200</td><td>0.0589</td><td>0.0426--0.0816</td><td>0.0307--0.111</td><td>0.0301 +- 0.000403</td></tr>
+<tr><td>1300</td><td>0.051</td><td>0.0356--0.0708</td><td>0.0273--0.0963</td><td>0.0301 +- 0.000261</td></tr>
+<tr><td>1400</td><td>0.0446</td><td>0.0319--0.0625</td><td>0.0239--0.0861</td><td>0.0296 +- 9.78e-05</td></tr>
+<tr><td>1500</td><td>0.0383</td><td>0.0268--0.0556</td><td>0.0195--0.0803</td><td>0.029 +- 0.000234</td></tr>
+<tr><td>1600</td><td>0.034</td><td>0.0231--0.0492</td><td>0.0172--0.0751</td><td>0.0275 +- 0.0002</td></tr>
+<tr><td>1700</td><td>0.0304</td><td>0.021--0.0448</td><td>0.0154--0.0658</td><td>0.0277 +- 0.000276</td></tr>
+<tr><td>1800</td><td>0.0267</td><td>0.0186--0.0401</td><td>0.0135--0.0558</td><td>0.0277 +- 0.000322</td></tr>
+<tr><td>1900</td><td>0.0249</td><td>0.0169--0.0366</td><td>0.0121--0.0527</td><td>0.0243 +- 0.000163</td></tr>
+<tr><td>2000</td><td>0.0238</td><td>0.0163--0.0354</td><td>0.0118--0.0518</td><td>0.0205 +- 0.000143</td></tr>
+<tr><td>2100</td><td>0.0233</td><td>0.0156--0.0351</td><td>0.0107--0.0522</td><td>0.0176 +- 0.000149</td></tr>
+<tr><td>2200</td><td>0.0225</td><td>0.0147--0.0333</td><td>0.0101--0.0505</td><td>0.0151 +- 0.000176</td></tr>
+<tr><td>2300</td><td>0.0217</td><td>0.0141--0.0325</td><td>0.01--0.0485</td><td>0.0158 +- 0.000243</td></tr>
+<tr><td>2400</td><td>0.0201</td><td>0.0129--0.0306</td><td>0.00911--0.0453</td><td>0.0156 +- 0.000381</td></tr>
+<tr><td>2500</td><td>0.0185</td><td>0.012--0.0287</td><td>0.00857--0.0434</td><td>0.015 +- 0.000221</td></tr>
+<tr><td>2600</td><td>0.0177</td><td>0.0117--0.0275</td><td>0.00808--0.0402</td><td>0.015 +- 0.000206</td></tr>
+<tr><td>2700</td><td>0.018</td><td>0.0118--0.0276</td><td>0.00821--0.0401</td><td>0.0156 +- 0.000176</td></tr>
+<tr><td>2800</td><td>0.0195</td><td>0.0127--0.0298</td><td>0.0084--0.0438</td><td>0.0162 +- 0.000247</td></tr>
+<tr><td>2900</td><td>0.0214</td><td>0.0139--0.0322</td><td>0.00964--0.048</td><td>0.0186 +- 0.000209</td></tr>
+<tr><td>3000</td><td>0.0234</td><td>0.0153--0.0355</td><td>0.0104--0.0522</td><td>0.02 +- 0.000207</td></tr>
+</table>
+</p>
+<p><p><img src="plots/limit_band_plot-bayesian.png" /></p></p>
+<p><p><img src="plots/limit_band_plot-log-bayesian.png" /></p></p>
+
+</div>
+<hr /><p>This page was generated at 2013-02-06 09:18:13.279172 for workdir '/uscms_data/d2/dsperka/8TeV/MakeTBntuples/29Jan/CMSSW_5_3_6/src/UserCode/dsperka/wprimetb/theta/utils/Wprime/06Feb_NoSHyFT/WprimeInvLimits_2012_el'.</p></body></html>

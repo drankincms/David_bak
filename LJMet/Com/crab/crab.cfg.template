@@ -1,0 +1,30 @@
+[CRAB]
+cfg=CONFIGNAME
+use_server = USESERVER
+scheduler=SCHEDULER
+jobtype=cmssw
+
+
+[CMSSW]
+datasetpath=DATASET
+output_file = PatTuple.root,pset.py
+get_edm_output = 1
+pset=CMSSWCONFIG
+pycfg_params = globalTag=GLOBALTAG data=ISDATA
+total_number_of_events= TOTALNUMBEROFEVENTS
+events_per_job = EVENTSPERJOB
+lumi_mask = JSONFILE
+total_number_of_lumis = TOTALNUMBEROFLUMIS
+lumis_per_job = LUMISPERJOB
+number_of_jobs = NUMBEROFJOBS
+
+[USER]
+copy_data=1
+storage_element          = STORAGEELEMENT
+storage_path             = STORAGEPATH
+user_remote_dir          = USERREMOTEDIR
+ui_working_dir           = UIWORKINGDIR
+
+
+[GRID]
+virtual_organization    = cms

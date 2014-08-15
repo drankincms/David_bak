@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/public/theta/!svn/ver/185/tags/stable/liblbfgs
+END
+lbfgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/public/theta/!svn/ver/185/tags/stable/liblbfgs/lbfgs.h
+END
+arithmetic_ansi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/public/theta/!svn/ver/185/tags/stable/liblbfgs/arithmetic_ansi.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/public/theta/!svn/ver/185/tags/stable/liblbfgs/Makefile
+END
+lbfgs.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/public/theta/!svn/ver/185/tags/stable/liblbfgs/lbfgs.c
+END

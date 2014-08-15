@@ -1,0 +1,493 @@
+[WprimeSelector]: registering WprimeSelector
+[WprimeCalc]: registering WprimeCalc
+[PileUpCalc]: registering PileUpCalc
+[LjetsTopoCalcNew]: registering LjetsTopoCalcNew
+[CommonCalc]: registering CommonCalc
+[ljmet]: getting parameters from config file
+[ljmet]: the following parameter sets found:
+[ljmet]: hello from ljmet!
+[ljmet]: CommonCalc
+[ljmet]: LjetsTopoCalcNew
+[ljmet]: StopCalc
+[ljmet]: WprimeCalc
+[ljmet]: cutbasedIDSelector
+[ljmet]: event_selector
+[ljmet]: inputs
+[ljmet]: ljmet
+[ljmet]: looseElectronSelector
+[ljmet]: looseMuonSelector
+[ljmet]: outputs
+[ljmet]: pfJetIDSelector
+[ljmet]: pfMuonSelector
+[ljmet]: pvSelector
+[ljmet]: setting up TFileService
+[ljmet]: Creating output tree
+[ljmet]: booking histograms
+[ljmet]: instantiating the event selector
+b-tag check CSVM combinedSecondaryVertexBJetTags 0.679
+[WprimeSelector]: Applying 53X jet energy corrections
+[WprimeSelector]: muon selector configured!
+[WprimeSelector]: loose muon selector configured!
+CutBasedElectronSelector: You have choosen version = TIGHT 
+[WprimeSelector]: cut based electron selector configured!
+CutBasedElectronSelector: You have choosen version = VETO 
+[WprimeSelector]: cut based loose electron selector configured!
+[WprimeSelector]: jet ID selector configured!
+[WprimeSelector]: pv selector configured!
+[WprimeSelector]: config parameters loaded...
+[WprimeSelector]: initializing wprime selection
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.378015
+   1 0.486942
+   2 0.492756
+   3 0.356307
+   4 0.385451
+   5 0.724124
+   6 0.584092
+   7 0.576322
+   8 0.777053
+   9 1.11803
+   10 1.56351
+   11 1.9615
+   12 1.98543
+   13 1.73806
+   14 1.46241
+   15 1.2714
+   16 1.17402
+   17 1.13529
+   18 1.13435
+   19 1.15514
+   20 1.17009
+   21 1.16621
+   22 1.14821
+   23 1.11898
+   24 1.07238
+   25 1.00109
+   26 0.903523
+   27 0.784558
+   28 0.651743
+   29 0.515586
+   30 0.388393
+   31 0.280064
+   32 0.194528
+   33 0.130661
+   34 0.0846715
+   35 0.0525313
+   36 0.0310338
+   37 0.0174241
+   38 0.00931917
+   39 0.00479083
+   40 0.0023969
+   41 0.00118293
+   42 0.00058244
+   43 0.000288044
+   44 0.000143603
+   45 7.20172e-05
+   46 3.62163e-05
+   47 1.82157e-05
+   48 9.14493e-06
+   49 4.57948e-06
+   50 2.29001e-06
+   51 1.14434e-06
+   52 5.72253e-07
+   53 2.86348e-07
+   54 1.43054e-07
+   55 7.12273e-08
+   56 3.52543e-08
+   57 1.73081e-08
+   58 8.4093e-09
+   59 8.49271e-09
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.392175
+   1 0.513389
+   2 0.382412
+   3 0.490202
+   4 0.461269
+   5 0.768099
+   6 0.61359
+   7 0.603811
+   8 0.812928
+   9 1.16408
+   10 1.5986
+   11 1.95348
+   12 1.96804
+   13 1.73488
+   14 1.469
+   15 1.28063
+   16 1.17831
+   17 1.13164
+   18 1.1266
+   19 1.14747
+   20 1.16532
+   21 1.16566
+   22 1.15303
+   23 1.12891
+   24 1.08348
+   25 1.00854
+   26 0.904604
+   27 0.778648
+   28 0.63976
+   29 0.499812
+   30 0.371789
+   31 0.265255
+   32 0.183065
+   33 0.122874
+   34 0.0799952
+   35 0.0500258
+   36 0.0298099
+   37 0.0168596
+   38 0.00906312
+   39 0.00467267
+   40 0.00234077
+   41 0.00115555
+   42 0.000568783
+   43 0.000281085
+   44 0.000139977
+   45 7.00928e-05
+   46 3.51832e-05
+   47 1.76588e-05
+   48 8.84559e-06
+   49 4.41967e-06
+   50 2.20527e-06
+   51 1.09966e-06
+   52 5.48747e-07
+   53 2.73977e-07
+   54 1.36546e-07
+   55 6.78087e-08
+   56 3.34662e-08
+   57 1.63798e-08
+   58 7.93238e-09
+   59 7.98405e-09
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.364361
+   1 0.333538
+   2 0.351845
+   3 0.344097
+   4 0.414274
+   5 0.350177
+   6 0.32984
+   7 0.371472
+   8 0.522052
+   9 0.793619
+   10 1.11663
+   11 1.44274
+   12 1.59969
+   13 1.51369
+   14 1.31235
+   15 1.15512
+   16 1.08792
+   17 1.07545
+   18 1.09105
+   19 1.12559
+   20 1.15579
+   21 1.16793
+   22 1.16592
+   23 1.15825
+   24 1.1483
+   25 1.12957
+   26 1.09059
+   27 1.02438
+   28 0.930882
+   29 0.815165
+   30 0.684899
+   31 0.550689
+   32 0.424466
+   33 0.316055
+   34 0.229172
+   35 0.162226
+   36 0.111893
+   37 0.0746817
+   38 0.0478191
+   39 0.0292501
+   40 0.0171019
+   41 0.00961462
+   42 0.00524888
+   43 0.00281444
+   44 0.00150048
+   45 0.000801187
+   46 0.000430267
+   47 0.000232705
+   48 0.000126525
+   49 6.89547e-05
+   50 3.75877e-05
+   51 2.04552e-05
+   52 1.11195e-05
+   53 6.04415e-06
+   54 3.28618e-06
+   55 1.78925e-06
+   56 9.75375e-07
+   57 5.31821e-07
+   58 2.89361e-07
+   59 3.29695e-07
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.246614
+   1 0.322907
+   2 0.328773
+   3 0.346809
+   4 0.318526
+   5 0.580152
+   6 0.451038
+   7 0.435808
+   8 0.600398
+   9 0.919256
+   10 1.32893
+   11 1.69668
+   12 1.75504
+   13 1.56804
+   14 1.33566
+   15 1.1649
+   16 1.07821
+   17 1.05237
+   18 1.06989
+   19 1.11348
+   20 1.15426
+   21 1.17768
+   22 1.18615
+   23 1.18065
+   24 1.15571
+   25 1.10712
+   26 1.0355
+   27 0.944252
+   28 0.8366
+   29 0.717778
+   30 0.595529
+   31 0.477849
+   32 0.370404
+   33 0.276927
+   34 0.19911
+   35 0.137182
+   36 0.0906188
+   37 0.0575661
+   38 0.0353292
+   39 0.0211212
+   40 0.0124286
+   41 0.00729269
+   42 0.00433388
+   43 0.00265349
+   44 0.00170389
+   45 0.00115947
+   46 0.000838318
+   47 0.000640814
+   48 0.000512669
+   49 0.000424647
+   50 0.000361046
+   51 0.000312758
+   52 0.000274727
+   53 0.000243669
+   54 0.000217236
+   55 0.000194137
+   56 0.000173429
+   57 0.000154546
+   58 0.000137065
+   59 0.000254086
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.229041
+   1 0.210746
+   2 0.290395
+   3 0.250875
+   4 0.277952
+   5 0.269141
+   6 0.243578
+   7 0.270286
+   8 0.377339
+   9 0.60359
+   10 0.901618
+   11 1.21763
+   12 1.40262
+   13 1.35436
+   14 1.18769
+   15 1.05008
+   16 0.989284
+   17 0.983667
+   18 1.01309
+   19 1.06588
+   20 1.11708
+   21 1.15114
+   22 1.17112
+   23 1.18434
+   24 1.19299
+   25 1.1933
+   26 1.1784
+   27 1.1436
+   28 1.0877
+   29 1.01188
+   30 0.91797
+   31 0.809822
+   32 0.693695
+   33 0.57749
+   34 0.467128
+   35 0.365978
+   36 0.277154
+   37 0.202521
+   38 0.142604
+   39 0.0969681
+   40 0.063933
+   41 0.0411218
+   42 0.0260063
+   43 0.0163251
+   44 0.0103078
+   45 0.00663298
+   46 0.00441432
+   47 0.00307903
+   48 0.00226753
+   49 0.00176307
+   50 0.00143942
+   51 0.00122259
+   52 0.00107162
+   53 0.000962377
+   54 0.000879721
+   55 0.000815221
+   56 0.000762888
+   57 0.000718706
+   58 0.000679363
+   59 0.00135176
+[ljmet]: Creating WprimeSelector/jes_correction
+[ljmet]: Creating WprimeSelector/met_correction
+[ljmet]: Creating WprimeSelector/nBtagSfCorrections
+[ljmet]: Using MC truth info
+[ljmet]: Setting up chain event
+[ljmet]: Begin loop over events
+[ljmet]: 0 events processed. Processing run 1, event 749768
+[LjmetEventContent]: Creating branches in output tree
+[LjmetEventContent]: integer branches created: 37
+[LjmetEventContent]: double precision branches created: 161
+[LjmetEventContent]: vector<int> branches created: 0
+[LjmetEventContent]: vector<double> branches created: 0
+[ljmet]: 100 events processed. Processing run 1, event 749869
+[ljmet]: 200 events processed. Processing run 1, event 749970
+[ljmet]: 300 events processed. Processing run 1, event 750071
+[ljmet]: 400 events processed. Processing run 1, event 750173
+[ljmet]: 500 events processed. Processing run 1, event 751473
+[ljmet]: 600 events processed. Processing run 1, event 751573
+[ljmet]: 700 events processed. Processing run 1, event 751674
+[ljmet]: 800 events processed. Processing run 1, event 751776
+[ljmet]: 900 events processed. Processing run 1, event 751876
+[ljmet]: 1000 events processed. Processing run 1, event 751976
+[ljmet]: 1100 events processed. Processing run 1, event 752076
+[ljmet]: 1200 events processed. Processing run 1, event 752177
+[ljmet]: 1300 events processed. Processing run 1, event 752277
+[ljmet]: 1400 events processed. Processing run 1, event 752377
+[ljmet]: 1500 events processed. Processing run 1, event 752479
+[ljmet]: 1600 events processed. Processing run 1, event 752581
+[ljmet]: 1700 events processed. Processing run 1, event 753282
+[ljmet]: 1800 events processed. Processing run 1, event 753383
+[ljmet]: 1900 events processed. Processing run 1, event 753485
+[ljmet]: 2000 events processed. Processing run 1, event 754486
+[ljmet]: 2100 events processed. Processing run 1, event 754587
+[ljmet]: 2200 events processed. Processing run 1, event 754687
+[ljmet]: 2300 events processed. Processing run 1, event 754789
+[ljmet]: 2400 events processed. Processing run 1, event 754890
+[ljmet]: 2500 events processed. Processing run 1, event 754990
+[ljmet]: 2600 events processed. Processing run 1, event 755091
+[ljmet]: 2700 events processed. Processing run 1, event 755192
+[ljmet]: 2800 events processed. Processing run 1, event 755292
+[ljmet]: 2900 events processed. Processing run 1, event 630894
+[ljmet]: 3000 events processed. Processing run 1, event 630995
+[ljmet]: 3100 events processed. Processing run 1, event 631096
+[ljmet]: 3200 events processed. Processing run 1, event 631196
+[ljmet]: 3300 events processed. Processing run 1, event 631299
+[ljmet]: 3400 events processed. Processing run 1, event 631400
+[ljmet]: 3500 events processed. Processing run 1, event 631501
+[ljmet]: 3600 events processed. Processing run 1, event 631601
+[ljmet]: 3700 events processed. Processing run 1, event 631702
+[ljmet]: 3800 events processed. Processing run 1, event 631803
+[ljmet]: 3900 events processed. Processing run 1, event 631903
+[ljmet]: 4000 events processed. Processing run 1, event 642804
+[ljmet]: 4100 events processed. Processing run 1, event 642905
+[ljmet]: 4200 events processed. Processing run 1, event 643005
+[ljmet]: 4300 events processed. Processing run 1, event 643105
+[ljmet]: 4400 events processed. Processing run 1, event 643205
+[ljmet]: 4500 events processed. Processing run 1, event 643307
+[ljmet]: 4600 events processed. Processing run 1, event 643408
+[ljmet]: 4700 events processed. Processing run 1, event 643509
+[ljmet]: 4800 events processed. Processing run 1, event 643609
+[ljmet]: 4900 events processed. Processing run 1, event 643711
+[ljmet]: 5000 events processed. Processing run 1, event 643811
+[ljmet]: 5100 events processed. Processing run 1, event 643914
+[ljmet]: 5200 events processed. Processing run 1, event 647015
+[ljmet]: 5300 events processed. Processing run 1, event 647116
+[ljmet]: 5400 events processed. Processing run 1, event 647216
+[ljmet]: 5500 events processed. Processing run 1, event 647316
+[ljmet]: 5600 events processed. Processing run 1, event 647418
+[ljmet]: 5700 events processed. Processing run 1, event 647518
+[ljmet]: 5800 events processed. Processing run 1, event 647619
+[ljmet]: 5900 events processed. Processing run 1, event 647720
+[ljmet]: 6000 events processed. Processing run 1, event 647820
+[ljmet]: 6100 events processed. Processing run 1, event 647920
+[ljmet]: 6200 events processed. Processing run 1, event 648021
+[ljmet]: 6300 events processed. Processing run 1, event 648122
+[ljmet]: 6400 events processed. Processing run 1, event 651222
+[ljmet]: 6500 events processed. Processing run 1, event 651322
+[ljmet]: 6600 events processed. Processing run 1, event 651422
+[ljmet]: 6700 events processed. Processing run 1, event 651822
+[ljmet]: 6800 events processed. Processing run 1, event 651923
+[ljmet]: 6900 events processed. Processing run 1, event 652023
+[ljmet]: 7000 events processed. Processing run 1, event 652124
+[ljmet]: 7100 events processed. Processing run 1, event 652224
+[ljmet]: 7200 events processed. Processing run 1, event 652324
+[ljmet]: 7300 events processed. Processing run 1, event 652424
+[ljmet]: 7400 events processed. Processing run 1, event 652524
+[ljmet]: 7500 events processed. Processing run 1, event 652624
+[ljmet]: 7600 events processed. Processing run 1, event 772725
+[ljmet]: 7700 events processed. Processing run 1, event 720414
+[ljmet]: 7800 events processed. Processing run 1, event 8115
+[ljmet]: 7900 events processed. Processing run 1, event 8215
+[ljmet]: 8000 events processed. Processing run 1, event 8317
+[ljmet]: 8100 events processed. Processing run 1, event 12018
+[ljmet]: 8200 events processed. Processing run 1, event 12120
+[ljmet]: 8300 events processed. Processing run 1, event 12220
+[ljmet]: 8400 events processed. Processing run 1, event 15320
+[ljmet]: 8500 events processed. Processing run 1, event 15423
+[ljmet]: 8600 events processed. Processing run 1, event 15525
+[ljmet]: 8700 events processed. Processing run 1, event 19525
+[ljmet]: 8800 events processed. Processing run 1, event 19625
+[ljmet]: 8900 events processed. Processing run 1, event 19725
+[ljmet]: 9000 events processed. Processing run 1, event 24626
+[ljmet]: 9100 events processed. Processing run 1, event 24726
+[ljmet]: 9200 events processed. Processing run 1, event 24828
+[ljmet]: 9300 events processed. Processing run 1, event 34228
+[ljmet]: 9400 events processed. Processing run 1, event 34329
+[ljmet]: 9500 events processed. Processing run 1, event 34430
+[ljmet]: 9600 events processed. Processing run 1, event 132631
+[ljmet]: 9700 events processed. Processing run 1, event 132732
+[ljmet]: 9800 events processed. Processing run 1, event 132832
+[ljmet]: 9900 events processed. Processing run 1, event 133534
+[ljmet]: Selection
+     0 :         No selection      10000
+     1 :              Trigger       3190
+     2 :       Primary vertex       3190
+     3 : HBHE noise and scraping filter       3190
+     4 : Laser calibration correction filter        off
+     5 :     Min tight lepton       2847
+     6 :     Max tight lepton       2843
+     7 :       Min tight muon       2843
+     8 :   Min tight electron       2825
+     9 :   Trigger consistent       2825
+    10 :   Second lepton veto        off
+    11 :      One jet or more        off
+    12 :     Two jets or more        off
+    13 :   Three jets or more        off
+    14 : Min jet multiplicity        off
+    15 : Max jet multiplicity        off
+    16 :       Leading jet pt        off
+    17 :              Min MET       3190
+    18 :       1 btag or more        off
+    19 :       2 btag or more        off
+    20 :       3 btag or more        off
+    21 :             All cuts       2825

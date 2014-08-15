@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/public/theta/!svn/ver/185/tags/stable/test/test-stat
+END
+counting-nobkg.cfg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg.cfg.tpl
+END
+counting-fixedbkg-mle.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-fixedbkg-mle.cfg
+END
+counting-fixedbkg-mcmc_quant.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-fixedbkg-mcmc_quant.py
+END
+counting-nobkg-mle.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg-mle.py
+END
+onoff_pl.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/onoff_pl.py
+END
+counting-fixedbkg-mcmc_quant.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-fixedbkg-mcmc_quant.cfg
+END
+counting-nobkg-mle.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg-mle.cfg
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/README
+END
+onoff.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/onoff.py
+END
+gaussmean_model.cfg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/gaussmean_model.cfg.tpl
+END
+counting-nobkg-deltanll_intervals.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg-deltanll_intervals.py
+END
+counting-nobkg-mcmc_quant.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg-mcmc_quant.py
+END
+onoff_pl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/onoff_pl.cfg
+END
+counting-fixedbkg.cfg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-fixedbkg.cfg.tpl
+END
+onoff.cfg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/onoff.cfg.tpl
+END
+gaussmean_pl.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/gaussmean_pl.py
+END
+counting-nobkg-deltanll_intervals.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg-deltanll_intervals.cfg
+END
+counting-nobkg-mcmc_quant.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-nobkg-mcmc_quant.cfg
+END
+counting-fixedbkg-mle.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/counting-fixedbkg-mle.py
+END
+gaussmean_pl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/gaussmean_pl.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/public/theta/!svn/ver/185/tags/stable/test/test-stat/Makefile
+END

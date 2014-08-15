@@ -1,0 +1,888 @@
+[WprimeSelector]: registering WprimeSelector
+[WprimeCalc]: registering WprimeCalc
+[PileUpCalc]: registering PileUpCalc
+[LjetsTopoCalcNew]: registering LjetsTopoCalcNew
+[CommonCalc]: registering CommonCalc
+[ljmet]: getting parameters from config file
+[ljmet]: the following parameter sets found:
+[ljmet]: hello from ljmet!
+[ljmet]: CommonCalc
+[ljmet]: LjetsTopoCalcNew
+[ljmet]: StopCalc
+[ljmet]: WprimeCalc
+[ljmet]: cutbasedIDSelector
+[ljmet]: event_selector
+[ljmet]: inputs
+[ljmet]: ljmet
+[ljmet]: looseElectronSelector
+[ljmet]: looseMuonSelector
+[ljmet]: outputs
+[ljmet]: pfJetIDSelector
+[ljmet]: pfMuonSelector
+[ljmet]: pvSelector
+[ljmet]: setting up TFileService
+[ljmet]: Creating output tree
+[ljmet]: booking histograms
+[ljmet]: instantiating the event selector
+b-tag check CSVM combinedSecondaryVertexBJetTags 0.679
+[WprimeSelector]: Applying 53X jet energy corrections
+[WprimeSelector]: muon selector configured!
+[WprimeSelector]: loose muon selector configured!
+CutBasedElectronSelector: You have choosen version = TIGHT 
+[WprimeSelector]: cut based electron selector configured!
+CutBasedElectronSelector: You have choosen version = VETO 
+[WprimeSelector]: cut based loose electron selector configured!
+[WprimeSelector]: jet ID selector configured!
+[WprimeSelector]: pv selector configured!
+[WprimeSelector]: config parameters loaded...
+[WprimeSelector]: initializing wprime selection
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.378015
+   1 0.486942
+   2 0.492756
+   3 0.356307
+   4 0.385451
+   5 0.724124
+   6 0.584092
+   7 0.576322
+   8 0.777053
+   9 1.11803
+   10 1.56351
+   11 1.9615
+   12 1.98543
+   13 1.73806
+   14 1.46241
+   15 1.2714
+   16 1.17402
+   17 1.13529
+   18 1.13435
+   19 1.15514
+   20 1.17009
+   21 1.16621
+   22 1.14821
+   23 1.11898
+   24 1.07238
+   25 1.00109
+   26 0.903523
+   27 0.784558
+   28 0.651743
+   29 0.515586
+   30 0.388393
+   31 0.280064
+   32 0.194528
+   33 0.130661
+   34 0.0846715
+   35 0.0525313
+   36 0.0310338
+   37 0.0174241
+   38 0.00931917
+   39 0.00479083
+   40 0.0023969
+   41 0.00118293
+   42 0.00058244
+   43 0.000288044
+   44 0.000143603
+   45 7.20172e-05
+   46 3.62163e-05
+   47 1.82157e-05
+   48 9.14493e-06
+   49 4.57948e-06
+   50 2.29001e-06
+   51 1.14434e-06
+   52 5.72253e-07
+   53 2.86348e-07
+   54 1.43054e-07
+   55 7.12273e-08
+   56 3.52543e-08
+   57 1.73081e-08
+   58 8.4093e-09
+   59 8.49271e-09
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.392175
+   1 0.513389
+   2 0.382412
+   3 0.490202
+   4 0.461269
+   5 0.768099
+   6 0.61359
+   7 0.603811
+   8 0.812928
+   9 1.16408
+   10 1.5986
+   11 1.95348
+   12 1.96804
+   13 1.73488
+   14 1.469
+   15 1.28063
+   16 1.17831
+   17 1.13164
+   18 1.1266
+   19 1.14747
+   20 1.16532
+   21 1.16566
+   22 1.15303
+   23 1.12891
+   24 1.08348
+   25 1.00854
+   26 0.904604
+   27 0.778648
+   28 0.63976
+   29 0.499812
+   30 0.371789
+   31 0.265255
+   32 0.183065
+   33 0.122874
+   34 0.0799952
+   35 0.0500258
+   36 0.0298099
+   37 0.0168596
+   38 0.00906312
+   39 0.00467267
+   40 0.00234077
+   41 0.00115555
+   42 0.000568783
+   43 0.000281085
+   44 0.000139977
+   45 7.00928e-05
+   46 3.51832e-05
+   47 1.76588e-05
+   48 8.84559e-06
+   49 4.41967e-06
+   50 2.20527e-06
+   51 1.09966e-06
+   52 5.48747e-07
+   53 2.73977e-07
+   54 1.36546e-07
+   55 6.78087e-08
+   56 3.34662e-08
+   57 1.63798e-08
+   58 7.93238e-09
+   59 7.98405e-09
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.364361
+   1 0.333538
+   2 0.351845
+   3 0.344097
+   4 0.414274
+   5 0.350177
+   6 0.32984
+   7 0.371472
+   8 0.522052
+   9 0.793619
+   10 1.11663
+   11 1.44274
+   12 1.59969
+   13 1.51369
+   14 1.31235
+   15 1.15512
+   16 1.08792
+   17 1.07545
+   18 1.09105
+   19 1.12559
+   20 1.15579
+   21 1.16793
+   22 1.16592
+   23 1.15825
+   24 1.1483
+   25 1.12957
+   26 1.09059
+   27 1.02438
+   28 0.930882
+   29 0.815165
+   30 0.684899
+   31 0.550689
+   32 0.424466
+   33 0.316055
+   34 0.229172
+   35 0.162226
+   36 0.111893
+   37 0.0746817
+   38 0.0478191
+   39 0.0292501
+   40 0.0171019
+   41 0.00961462
+   42 0.00524888
+   43 0.00281444
+   44 0.00150048
+   45 0.000801187
+   46 0.000430267
+   47 0.000232705
+   48 0.000126525
+   49 6.89547e-05
+   50 3.75877e-05
+   51 2.04552e-05
+   52 1.11195e-05
+   53 6.04415e-06
+   54 3.28618e-06
+   55 1.78925e-06
+   56 9.75375e-07
+   57 5.31821e-07
+   58 2.89361e-07
+   59 3.29695e-07
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.246614
+   1 0.322907
+   2 0.328773
+   3 0.346809
+   4 0.318526
+   5 0.580152
+   6 0.451038
+   7 0.435808
+   8 0.600398
+   9 0.919256
+   10 1.32893
+   11 1.69668
+   12 1.75504
+   13 1.56804
+   14 1.33566
+   15 1.1649
+   16 1.07821
+   17 1.05237
+   18 1.06989
+   19 1.11348
+   20 1.15426
+   21 1.17768
+   22 1.18615
+   23 1.18065
+   24 1.15571
+   25 1.10712
+   26 1.0355
+   27 0.944252
+   28 0.8366
+   29 0.717778
+   30 0.595529
+   31 0.477849
+   32 0.370404
+   33 0.276927
+   34 0.19911
+   35 0.137182
+   36 0.0906188
+   37 0.0575661
+   38 0.0353292
+   39 0.0211212
+   40 0.0124286
+   41 0.00729269
+   42 0.00433388
+   43 0.00265349
+   44 0.00170389
+   45 0.00115947
+   46 0.000838318
+   47 0.000640814
+   48 0.000512669
+   49 0.000424647
+   50 0.000361046
+   51 0.000312758
+   52 0.000274727
+   53 0.000243669
+   54 0.000217236
+   55 0.000194137
+   56 0.000173429
+   57 0.000154546
+   58 0.000137065
+   59 0.000254086
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: MC_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: Data_distr (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: luminumer (Potential memory leak).
+Warning in <TDirectoryFile::Append>: Replacing existing TH1: lumidenom (Potential memory leak).
+ Lumi/Pileup Reweighting: Computed Weights per In-Time Nint 
+   0 0.229041
+   1 0.210746
+   2 0.290395
+   3 0.250875
+   4 0.277952
+   5 0.269141
+   6 0.243578
+   7 0.270286
+   8 0.377339
+   9 0.60359
+   10 0.901618
+   11 1.21763
+   12 1.40262
+   13 1.35436
+   14 1.18769
+   15 1.05008
+   16 0.989284
+   17 0.983667
+   18 1.01309
+   19 1.06588
+   20 1.11708
+   21 1.15114
+   22 1.17112
+   23 1.18434
+   24 1.19299
+   25 1.1933
+   26 1.1784
+   27 1.1436
+   28 1.0877
+   29 1.01188
+   30 0.91797
+   31 0.809822
+   32 0.693695
+   33 0.57749
+   34 0.467128
+   35 0.365978
+   36 0.277154
+   37 0.202521
+   38 0.142604
+   39 0.0969681
+   40 0.063933
+   41 0.0411218
+   42 0.0260063
+   43 0.0163251
+   44 0.0103078
+   45 0.00663298
+   46 0.00441432
+   47 0.00307903
+   48 0.00226753
+   49 0.00176307
+   50 0.00143942
+   51 0.00122259
+   52 0.00107162
+   53 0.000962377
+   54 0.000879721
+   55 0.000815221
+   56 0.000762888
+   57 0.000718706
+   58 0.000679363
+   59 0.00135176
+[ljmet]: Creating WprimeSelector/jes_correction
+[ljmet]: Creating WprimeSelector/met_correction
+[ljmet]: Creating WprimeSelector/nBtagSfCorrections
+[ljmet]: Using MC truth info
+[ljmet]: Setting up chain event
+[ljmet]: Begin loop over events
+[ljmet]: 0 events processed. Processing run 1, event 705623
+[ljmet]: 100 events processed. Processing run 1, event 705724
+[ljmet]: 200 events processed. Processing run 1, event 706426
+[ljmet]: 300 events processed. Processing run 1, event 706527
+[ljmet]: 400 events processed. Processing run 1, event 706629
+[ljmet]: 500 events processed. Processing run 1, event 709430
+[ljmet]: 600 events processed. Processing run 1, event 709530
+[ljmet]: 700 events processed. Processing run 1, event 709632
+[ljmet]: 800 events processed. Processing run 1, event 778134
+[ljmet]: 900 events processed. Processing run 1, event 778234
+[ljmet]: 1000 events processed. Processing run 1, event 778335
+[ljmet]: 1100 events processed. Processing run 1, event 804835
+[ljmet]: 1200 events processed. Processing run 1, event 804935
+[ljmet]: 1300 events processed. Processing run 1, event 805037
+[ljmet]: 1400 events processed. Processing run 1, event 818639
+[ljmet]: 1500 events processed. Processing run 1, event 818739
+[ljmet]: 1600 events processed. Processing run 1, event 818839
+[ljmet]: 1700 events processed. Processing run 1, event 840540
+[ljmet]: 1800 events processed. Processing run 1, event 840642
+[ljmet]: 1900 events processed. Processing run 1, event 840744
+[ljmet]: 2000 events processed. Processing run 1, event 92447
+[ljmet]: 2100 events processed. Processing run 1, event 92548
+[ljmet]: 2200 events processed. Processing run 1, event 92649
+[ljmet]: 2300 events processed. Processing run 1, event 93049
+[ljmet]: 2400 events processed. Processing run 1, event 93149
+[ljmet]: 2500 events processed. Processing run 1, event 93251
+[ljmet]: 2600 events processed. Processing run 1, event 94553
+[ljmet]: 2700 events processed. Processing run 1, event 94654
+[ljmet]: 2800 events processed. Processing run 1, event 94756
+[ljmet]: 2900 events processed. Processing run 1, event 99056
+[ljmet]: 3000 events processed. Processing run 1, event 99157
+[ljmet]: 3100 events processed. Processing run 1, event 99258
+[ljmet]: 3200 events processed. Processing run 1, event 99359
+[ljmet]: 3300 events processed. Processing run 1, event 99460
+[ljmet]: 3400 events processed. Processing run 1, event 99563
+[ljmet]: 3500 events processed. Processing run 1, event 99964
+[ljmet]: 3600 events processed. Processing run 1, event 100066
+[ljmet]: 3700 events processed. Processing run 1, event 100166
+[ljmet]: 3800 events processed. Processing run 1, event 376567
+[ljmet]: 3900 events processed. Processing run 1, event 376670
+[ljmet]: 4000 events processed. Processing run 1, event 376770
+[ljmet]: 4100 events processed. Processing run 1, event 752072
+[ljmet]: 4200 events processed. Processing run 1, event 752173
+[ljmet]: 4300 events processed. Processing run 1, event 752274
+[ljmet]: 4400 events processed. Processing run 1, event 753876
+[ljmet]: 4500 events processed. Processing run 1, event 753977
+[ljmet]: 4600 events processed. Processing run 1, event 754078
+[ljmet]: 4700 events processed. Processing run 1, event 755379
+[ljmet]: 4800 events processed. Processing run 1, event 755480
+[ljmet]: 4900 events processed. Processing run 1, event 755581
+[ljmet]: 5000 events processed. Processing run 1, event 384383
+[ljmet]: 5100 events processed. Processing run 1, event 384483
+[ljmet]: 5200 events processed. Processing run 1, event 384585
+[ljmet]: 5300 events processed. Processing run 1, event 662988
+[ljmet]: 5400 events processed. Processing run 1, event 663089
+[ljmet]: 5500 events processed. Processing run 1, event 663192
+[ljmet]: 5600 events processed. Processing run 1, event 663295
+[ljmet]: 5700 events processed. Processing run 1, event 663395
+[ljmet]: 5800 events processed. Processing run 1, event 663497
+[ljmet]: 5900 events processed. Processing run 1, event 808499
+[ljmet]: 6000 events processed. Processing run 1, event 808599
+[ljmet]: 6100 events processed. Processing run 1, event 808700
+[ljmet]: 6200 events processed. Processing run 1, event 508802
+[ljmet]: 6300 events processed. Processing run 1, event 508902
+[ljmet]: 6400 events processed. Processing run 1, event 512603
+[ljmet]: 6500 events processed. Processing run 1, event 512705
+[ljmet]: 6600 events processed. Processing run 1, event 512806
+[ljmet]: 6700 events processed. Processing run 1, event 513506
+[ljmet]: 6800 events processed. Processing run 1, event 513607
+[ljmet]: 6900 events processed. Processing run 1, event 513707
+[ljmet]: 7000 events processed. Processing run 1, event 516807
+[ljmet]: 7100 events processed. Processing run 1, event 516909
+[ljmet]: 7200 events processed. Processing run 1, event 517010
+[ljmet]: 7300 events processed. Processing run 1, event 538113
+[ljmet]: 7400 events processed. Processing run 1, event 538215
+[ljmet]: 7500 events processed. Processing run 1, event 538317
+[ljmet]: 7600 events processed. Processing run 1, event 539318
+[ljmet]: 7700 events processed. Processing run 1, event 539420
+[ljmet]: 7800 events processed. Processing run 1, event 539521
+[ljmet]: 7900 events processed. Processing run 1, event 543522
+[ljmet]: 8000 events processed. Processing run 1, event 543624
+[ljmet]: 8100 events processed. Processing run 1, event 543724
+[ljmet]: 8200 events processed. Processing run 1, event 544730
+[ljmet]: 8300 events processed. Processing run 1, event 544830
+[ljmet]: 8400 events processed. Processing run 1, event 544932
+[ljmet]: 8500 events processed. Processing run 1, event 594236
+[ljmet]: 8600 events processed. Processing run 1, event 594338
+[ljmet]: 8700 events processed. Processing run 1, event 594438
+[ljmet]: 8800 events processed. Processing run 1, event 595138
+[ljmet]: 8900 events processed. Processing run 1, event 595240
+[ljmet]: 9000 events processed. Processing run 1, event 595342
+[ljmet]: 9100 events processed. Processing run 1, event 596942
+[ljmet]: 9200 events processed. Processing run 1, event 597043
+[ljmet]: 9300 events processed. Processing run 1, event 597143
+[ljmet]: 9400 events processed. Processing run 1, event 608343
+[ljmet]: 9500 events processed. Processing run 1, event 608444
+[ljmet]: 9600 events processed. Processing run 1, event 608547
+[ljmet]: 9700 events processed. Processing run 1, event 622748
+[ljmet]: 9800 events processed. Processing run 1, event 622849
+[ljmet]: 9900 events processed. Processing run 1, event 622949
+[ljmet]: 10000 events processed. Processing run 1, event 650349
+[ljmet]: 10100 events processed. Processing run 1, event 650450
+[ljmet]: 10200 events processed. Processing run 1, event 650550
+[ljmet]: 10300 events processed. Processing run 1, event 839350
+[ljmet]: 10400 events processed. Processing run 1, event 839450
+[ljmet]: 10500 events processed. Processing run 1, event 839550
+[ljmet]: 10600 events processed. Processing run 1, event 869351
+[ljmet]: 10700 events processed. Processing run 1, event 869452
+[ljmet]: 10800 events processed. Processing run 1, event 869552
+[ljmet]: 10900 events processed. Processing run 1, event 635354
+[ljmet]: 11000 events processed. Processing run 1, event 635456
+[ljmet]: 11100 events processed. Processing run 1, event 635557
+[ljmet]: 11200 events processed. Processing run 1, event 646759
+[ljmet]: 11300 events processed. Processing run 1, event 646861
+[ljmet]: 11400 events processed. Processing run 1, event 646961
+[ljmet]: 11500 events processed. Processing run 1, event 757761
+[ljmet]: 11600 events processed. Processing run 1, event 757862
+[ljmet]: 11700 events processed. Processing run 1, event 757963
+[ljmet]: 11800 events processed. Processing run 1, event 806064
+[ljmet]: 11900 events processed. Processing run 1, event 806164
+[ljmet]: 12000 events processed. Processing run 1, event 806264
+[ljmet]: 12100 events processed. Processing run 1, event 550166
+[ljmet]: 12200 events processed. Processing run 1, event 550267
+[ljmet]: 12300 events processed. Processing run 1, event 518494
+[ljmet]: 12400 events processed. Processing run 1, event 518594
+[ljmet]: 12500 events processed. Processing run 1, event 525295
+[ljmet]: 12600 events processed. Processing run 1, event 525395
+[ljmet]: 12700 events processed. Processing run 1, event 525496
+[ljmet]: 12800 events processed. Processing run 1, event 526496
+[ljmet]: 12900 events processed. Processing run 1, event 526597
+[ljmet]: 13000 events processed. Processing run 1, event 526697
+[ljmet]: 13100 events processed. Processing run 1, event 540897
+[ljmet]: 13200 events processed. Processing run 1, event 540997
+[ljmet]: 13300 events processed. Processing run 1, event 541098
+[ljmet]: 13400 events processed. Processing run 1, event 546299
+[ljmet]: 13500 events processed. Processing run 1, event 546400
+[ljmet]: 13600 events processed. Processing run 1, event 552201
+[ljmet]: 13700 events processed. Processing run 1, event 552302
+[ljmet]: 13800 events processed. Processing run 1, event 552402
+[ljmet]: 13900 events processed. Processing run 1, event 579505
+[ljmet]: 14000 events processed. Processing run 1, event 579606
+[ljmet]: 14100 events processed. Processing run 1, event 579706
+[ljmet]: 14200 events processed. Processing run 1, event 635006
+[ljmet]: 14300 events processed. Processing run 1, event 635107
+[ljmet]: 14400 events processed. Processing run 1, event 635207
+[ljmet]: 14500 events processed. Processing run 1, event 807207
+[ljmet]: 14600 events processed. Processing run 1, event 807309
+[ljmet]: 14700 events processed. Processing run 1, event 807409
+[ljmet]: 14800 events processed. Processing run 1, event 588209
+[ljmet]: 14900 events processed. Processing run 1, event 588311
+[ljmet]: 15000 events processed. Processing run 1, event 588411
+[ljmet]: 15100 events processed. Processing run 1, event 590012
+[ljmet]: 15200 events processed. Processing run 1, event 590112
+[ljmet]: 15300 events processed. Processing run 1, event 590212
+[ljmet]: 15400 events processed. Processing run 1, event 593313
+[ljmet]: 15500 events processed. Processing run 1, event 593413
+[ljmet]: 15600 events processed. Processing run 1, event 593514
+[ljmet]: 15700 events processed. Processing run 1, event 598416
+[ljmet]: 15800 events processed. Processing run 1, event 598516
+[ljmet]: 15900 events processed. Processing run 1, event 598618
+[ljmet]: 16000 events processed. Processing run 1, event 814119
+[ljmet]: 16100 events processed. Processing run 1, event 814219
+[ljmet]: 16200 events processed. Processing run 1, event 814319
+[ljmet]: 16300 events processed. Processing run 1, event 815620
+[ljmet]: 16400 events processed. Processing run 1, event 815721
+[ljmet]: 16500 events processed. Processing run 1, event 815823
+[ljmet]: 16600 events processed. Processing run 1, event 816524
+[ljmet]: 16700 events processed. Processing run 1, event 816625
+[ljmet]: 16800 events processed. Processing run 1, event 816725
+[ljmet]: 16900 events processed. Processing run 1, event 1226
+[ljmet]: 17000 events processed. Processing run 1, event 1327
+[ljmet]: 17100 events processed. Processing run 1, event 1430
+[ljmet]: 17200 events processed. Processing run 1, event 1531
+[ljmet]: 17300 events processed. Processing run 1, event 1633
+[ljmet]: 17400 events processed. Processing run 1, event 1733
+[ljmet]: 17500 events processed. Processing run 1, event 1833
+[ljmet]: 17600 events processed. Processing run 1, event 1934
+[ljmet]: 17700 events processed. Processing run 1, event 2035
+[ljmet]: 17800 events processed. Processing run 1, event 6636
+[ljmet]: 17900 events processed. Processing run 1, event 6738
+[ljmet]: 18000 events processed. Processing run 1, event 6841
+[ljmet]: 18100 events processed. Processing run 1, event 8143
+[ljmet]: 18200 events processed. Processing run 1, event 8243
+[ljmet]: 18300 events processed. Processing run 1, event 8343
+[ljmet]: 18400 events processed. Processing run 1, event 10245
+[ljmet]: 18500 events processed. Processing run 1, event 10347
+[ljmet]: 18600 events processed. Processing run 1, event 10449
+[ljmet]: 18700 events processed. Processing run 1, event 22852
+[ljmet]: 18800 events processed. Processing run 1, event 22953
+[ljmet]: 18900 events processed. Processing run 1, event 23054
+[ljmet]: 19000 events processed. Processing run 1, event 203455
+[ljmet]: 19100 events processed. Processing run 1, event 203555
+[ljmet]: 19200 events processed. Processing run 1, event 203656
+[ljmet]: 19300 events processed. Processing run 1, event 204356
+[ljmet]: 19400 events processed. Processing run 1, event 204456
+[ljmet]: 19500 events processed. Processing run 1, event 204557
+[ljmet]: 19600 events processed. Processing run 1, event 204960
+[ljmet]: 19700 events processed. Processing run 1, event 205061
+[ljmet]: 19800 events processed. Processing run 1, event 205163
+[ljmet]: 19900 events processed. Processing run 1, event 206465
+[ljmet]: 20000 events processed. Processing run 1, event 206565
+[ljmet]: 20100 events processed. Processing run 1, event 206667
+[ljmet]: 20200 events processed. Processing run 1, event 390367
+[ljmet]: 20300 events processed. Processing run 1, event 390467
+[ljmet]: 20400 events processed. Processing run 1, event 390569
+[ljmet]: 20500 events processed. Processing run 1, event 391870
+[ljmet]: 20600 events processed. Processing run 1, event 391971
+[ljmet]: 20700 events processed. Processing run 1, event 392071
+[ljmet]: 20800 events processed. Processing run 1, event 526774
+[ljmet]: 20900 events processed. Processing run 1, event 526877
+[ljmet]: 21000 events processed. Processing run 1, event 526978
+[ljmet]: 21100 events processed. Processing run 1, event 581978
+[ljmet]: 21200 events processed. Processing run 1, event 582080
+[ljmet]: 21300 events processed. Processing run 1, event 582182
+[ljmet]: 21400 events processed. Processing run 1, event 700484
+[ljmet]: 21500 events processed. Processing run 1, event 700586
+[ljmet]: 21600 events processed. Processing run 1, event 700687
+[ljmet]: 21700 events processed. Processing run 1, event 708287
+[ljmet]: 21800 events processed. Processing run 1, event 708391
+[ljmet]: 21900 events processed. Processing run 1, event 708491
+[ljmet]: 22000 events processed. Processing run 1, event 715795
+[ljmet]: 22100 events processed. Processing run 1, event 715895
+[ljmet]: 22200 events processed. Processing run 1, event 715995
+[ljmet]: 22300 events processed. Processing run 1, event 791697
+[ljmet]: 22400 events processed. Processing run 1, event 791797
+[ljmet]: 22500 events processed. Processing run 1, event 791900
+[ljmet]: 22600 events processed. Processing run 1, event 792000
+[ljmet]: 22700 events processed. Processing run 1, event 792101
+[ljmet]: 22800 events processed. Processing run 1, event 810802
+[ljmet]: 22900 events processed. Processing run 1, event 810903
+[ljmet]: 23000 events processed. Processing run 1, event 811003
+[ljmet]: 23100 events processed. Processing run 1, event 832704
+[ljmet]: 23200 events processed. Processing run 1, event 832805
+[ljmet]: 23300 events processed. Processing run 1, event 832906
+[ljmet]: 23400 events processed. Processing run 1, event 184806
+[ljmet]: 23500 events processed. Processing run 1, event 184909
+[ljmet]: 23600 events processed. Processing run 1, event 185010
+[ljmet]: 23700 events processed. Processing run 1, event 195610
+[ljmet]: 23800 events processed. Processing run 1, event 195711
+[ljmet]: 23900 events processed. Processing run 1, event 195814
+[ljmet]: 24000 events processed. Processing run 1, event 205816
+[ljmet]: 24100 events processed. Processing run 1, event 205916
+[ljmet]: 24200 events processed. Processing run 1, event 206016
+[ljmet]: 24300 events processed. Processing run 1, event 208217
+[ljmet]: 24400 events processed. Processing run 1, event 208318
+[ljmet]: 24500 events processed. Processing run 1, event 133521
+[ljmet]: 24600 events processed. Processing run 1, event 133622
+[ljmet]: 24700 events processed. Processing run 1, event 133723
+[ljmet]: 24800 events processed. Processing run 1, event 138323
+[ljmet]: 24900 events processed. Processing run 1, event 138423
+[ljmet]: 25000 events processed. Processing run 1, event 138526
+[ljmet]: 25100 events processed. Processing run 1, event 141926
+[ljmet]: 25200 events processed. Processing run 1, event 142027
+[ljmet]: 25300 events processed. Processing run 1, event 142128
+[ljmet]: 25400 events processed. Processing run 1, event 149128
+[ljmet]: 25500 events processed. Processing run 1, event 149231
+[ljmet]: 25600 events processed. Processing run 1, event 149331
+[ljmet]: 25700 events processed. Processing run 1, event 207333
+[ljmet]: 25800 events processed. Processing run 1, event 207435
+[ljmet]: 25900 events processed. Processing run 1, event 207536
+[ljmet]: 26000 events processed. Processing run 1, event 212138
+[ljmet]: 26100 events processed. Processing run 1, event 212238
+[ljmet]: 26200 events processed. Processing run 1, event 212339
+[ljmet]: 26300 events processed. Processing run 1, event 213940
+[ljmet]: 26400 events processed. Processing run 1, event 214041
+[ljmet]: 26500 events processed. Processing run 1, event 214142
+[ljmet]: 26600 events processed. Processing run 1, event 216042
+[ljmet]: 26700 events processed. Processing run 1, event 216143
+[ljmet]: 26800 events processed. Processing run 1, event 216245
+[ljmet]: 26900 events processed. Processing run 1, event 578647
+[ljmet]: 27000 events processed. Processing run 1, event 578747
+[ljmet]: 27100 events processed. Processing run 1, event 578849
+[ljmet]: 27200 events processed. Processing run 1, event 590953
+[ljmet]: 27300 events processed. Processing run 1, event 591054
+[ljmet]: 27400 events processed. Processing run 1, event 591155
+[ljmet]: 27500 events processed. Processing run 1, event 605655
+[ljmet]: 27600 events processed. Processing run 1, event 605756
+[ljmet]: 27700 events processed. Processing run 1, event 605859
+[ljmet]: 27800 events processed. Processing run 1, event 608061
+[ljmet]: 27900 events processed. Processing run 1, event 608161
+[ljmet]: 28000 events processed. Processing run 1, event 608263
+[ljmet]: 28100 events processed. Processing run 1, event 731364
+[ljmet]: 28200 events processed. Processing run 1, event 731466
+[ljmet]: 28300 events processed. Processing run 1, event 731568
+[ljmet]: 28400 events processed. Processing run 1, event 852269
+[ljmet]: 28500 events processed. Processing run 1, event 852369
+[ljmet]: 28600 events processed. Processing run 1, event 852469
+[ljmet]: 28700 events processed. Processing run 1, event 853170
+[ljmet]: 28800 events processed. Processing run 1, event 853271
+[ljmet]: 28900 events processed. Processing run 1, event 853371
+[ljmet]: 29000 events processed. Processing run 1, event 863072
+[ljmet]: 29100 events processed. Processing run 1, event 863173
+[ljmet]: 29200 events processed. Processing run 1, event 863275
+[ljmet]: 29300 events processed. Processing run 1, event 751476
+[ljmet]: 29400 events processed. Processing run 1, event 751576
+[ljmet]: 29500 events processed. Processing run 1, event 751677
+[ljmet]: 29600 events processed. Processing run 1, event 760481
+[ljmet]: 29700 events processed. Processing run 1, event 760582
+[ljmet]: 29800 events processed. Processing run 1, event 760684
+[ljmet]: 29900 events processed. Processing run 1, event 815085
+[ljmet]: 30000 events processed. Processing run 1, event 815188
+[ljmet]: 30100 events processed. Processing run 1, event 815290
+[ljmet]: 30200 events processed. Processing run 1, event 815990
+[ljmet]: 30300 events processed. Processing run 1, event 816090
+[ljmet]: 30400 events processed. Processing run 1, event 816192
+[ljmet]: 30500 events processed. Processing run 1, event 872994
+[ljmet]: 30600 events processed. Processing run 1, event 873095
+[ljmet]: 30700 events processed. Processing run 1, event 873196
+[ljmet]: 30800 events processed. Processing run 1, event 141399
+[ljmet]: 30900 events processed. Processing run 1, event 141502
+[ljmet]: 31000 events processed. Processing run 1, event 146103
+[ljmet]: 31100 events processed. Processing run 1, event 146204
+[ljmet]: 31200 events processed. Processing run 1, event 146305
+[ljmet]: 31300 events processed. Processing run 1, event 146405
+[ljmet]: 31400 events processed. Processing run 1, event 146505
+[ljmet]: 31500 events processed. Processing run 1, event 146605
+[ljmet]: 31600 events processed. Processing run 1, event 149705
+[ljmet]: 31700 events processed. Processing run 1, event 149808
+[ljmet]: 31800 events processed. Processing run 1, event 149910
+[ljmet]: 31900 events processed. Processing run 1, event 280511
+[ljmet]: 32000 events processed. Processing run 1, event 280612
+[ljmet]: 32100 events processed. Processing run 1, event 280713
+[ljmet]: 32200 events processed. Processing run 1, event 288914
+[ljmet]: 32300 events processed. Processing run 1, event 289016
+[ljmet]: 32400 events processed. Processing run 1, event 289118
+[ljmet]: 32500 events processed. Processing run 1, event 353420
+[ljmet]: 32600 events processed. Processing run 1, event 353521
+[ljmet]: 32700 events processed. Processing run 1, event 353622
+[ljmet]: 32800 events processed. Processing run 1, event 355522
+[ljmet]: 32900 events processed. Processing run 1, event 355624
+[ljmet]: 33000 events processed. Processing run 1, event 355724
+[ljmet]: 33100 events processed. Processing run 1, event 36024
+[ljmet]: 33200 events processed. Processing run 1, event 36126
+[ljmet]: 33300 events processed. Processing run 1, event 36227
+[ljmet]: 33400 events processed. Processing run 1, event 37828
+[ljmet]: 33500 events processed. Processing run 1, event 37928
+[ljmet]: 33600 events processed. Processing run 1, event 38028
+[ljmet]: 33700 events processed. Processing run 1, event 40531
+[ljmet]: 33800 events processed. Processing run 1, event 40634
+[ljmet]: 33900 events processed. Processing run 1, event 40734
+[ljmet]: 34000 events processed. Processing run 1, event 68137
+[ljmet]: 34100 events processed. Processing run 1, event 68237
+[ljmet]: 34200 events processed. Processing run 1, event 68338
+[ljmet]: 34300 events processed. Processing run 1, event 68739
+[ljmet]: 34400 events processed. Processing run 1, event 68842
+[ljmet]: 34500 events processed. Processing run 1, event 68943
+[ljmet]: 34600 events processed. Processing run 1, event 69644
+[ljmet]: 34700 events processed. Processing run 1, event 69745
+[ljmet]: 34800 events processed. Processing run 1, event 69845
+[ljmet]: 34900 events processed. Processing run 1, event 71147
+[ljmet]: 35000 events processed. Processing run 1, event 71247
+[ljmet]: 35100 events processed. Processing run 1, event 71347
+[ljmet]: 35200 events processed. Processing run 1, event 191448
+[ljmet]: 35300 events processed. Processing run 1, event 191548
+[ljmet]: 35400 events processed. Processing run 1, event 191649
+[ljmet]: 35500 events processed. Processing run 1, event 202850
+[ljmet]: 35600 events processed. Processing run 1, event 202951
+[ljmet]: 35700 events processed. Processing run 1, event 203052
+[ljmet]: 35800 events processed. Processing run 1, event 207952
+[ljmet]: 35900 events processed. Processing run 1, event 208052
+[ljmet]: 36000 events processed. Processing run 1, event 208153
+[ljmet]: 36100 events processed. Processing run 1, event 208553
+[ljmet]: 36200 events processed. Processing run 1, event 208658
+[ljmet]: 36300 events processed. Processing run 1, event 208758
+[ljmet]: 36400 events processed. Processing run 1, event 267659
+[ljmet]: 36500 events processed. Processing run 1, event 267761
+[ljmet]: 36600 events processed. Processing run 1, event 267862
+[ljmet]: 36700 events processed. Processing run 1, event 313263
+[ljmet]: 36800 events processed. Processing run 1, event 168952
+[ljmet]: 36900 events processed. Processing run 1, event 169052
+[ljmet]: 37000 events processed. Processing run 1, event 169154
+[ljmet]: 37100 events processed. Processing run 1, event 255956
+[ljmet]: 37200 events processed. Processing run 1, event 256060
+[ljmet]: 37300 events processed. Processing run 1, event 256160
+[ljmet]: 37400 events processed. Processing run 1, event 261360
+[ljmet]: 37500 events processed. Processing run 1, event 261460
+[ljmet]: 37600 events processed. Processing run 1, event 261561
+[ljmet]: 37700 events processed. Processing run 1, event 266162
+[ljmet]: 37800 events processed. Processing run 1, event 266263
+[ljmet]: 37900 events processed. Processing run 1, event 266365
+[ljmet]: 38000 events processed. Processing run 1, event 298865
+[ljmet]: 38100 events processed. Processing run 1, event 298965
+[ljmet]: 38200 events processed. Processing run 1, event 299066
+[ljmet]: 38300 events processed. Processing run 1, event 341168
+[ljmet]: 38400 events processed. Processing run 1, event 341269
+[ljmet]: 38500 events processed. Processing run 1, event 341371
+[ljmet]: 38600 events processed. Processing run 1, event 342673
+[ljmet]: 38700 events processed. Processing run 1, event 342774
+[ljmet]: 38800 events processed. Processing run 1, event 342874
+[ljmet]: 38900 events processed. Processing run 1, event 349574
+[ljmet]: 39000 events processed. Processing run 1, event 349674
+[ljmet]: 39100 events processed. Processing run 1, event 349776
+[ljmet]: 39200 events processed. Processing run 1, event 358277
+[ljmet]: 39300 events processed. Processing run 1, event 358378
+[ljmet]: 39400 events processed. Processing run 1, event 358480
+[ljmet]: 39500 events processed. Processing run 1, event 404481
+[ljmet]: 39600 events processed. Processing run 1, event 404581
+[ljmet]: 39700 events processed. Processing run 1, event 404681
+[ljmet]: 39800 events processed. Processing run 1, event 408083
+[ljmet]: 39900 events processed. Processing run 1, event 408185
+[ljmet]: 40000 events processed. Processing run 1, event 408287
+[ljmet]: 40100 events processed. Processing run 1, event 420387
+[ljmet]: 40200 events processed. Processing run 1, event 420487
+[ljmet]: 40300 events processed. Processing run 1, event 420587
+[ljmet]: 40400 events processed. Processing run 1, event 436587
+[ljmet]: 40500 events processed. Processing run 1, event 436689
+[ljmet]: 40600 events processed. Processing run 1, event 436790
+[ljmet]: 40700 events processed. Processing run 1, event 833090
+[ljmet]: 40800 events processed. Processing run 1, event 833190
+[ljmet]: 40900 events processed. Processing run 1, event 833291
+[ljmet]: 41000 events processed. Processing run 1, event 281792
+[ljmet]: 41100 events processed. Processing run 1, event 281892
+[ljmet]: 41200 events processed. Processing run 1, event 281994
+[ljmet]: 41300 events processed. Processing run 1, event 321097
+[ljmet]: 41400 events processed. Processing run 1, event 321197
+[ljmet]: 41500 events processed. Processing run 1, event 321298
+[ljmet]: 41600 events processed. Processing run 1, event 352000
+[ljmet]: 41700 events processed. Processing run 1, event 352101
+[ljmet]: 41800 events processed. Processing run 1, event 490803
+[ljmet]: 41900 events processed. Processing run 1, event 490905
+[ljmet]: 42000 events processed. Processing run 1, event 491006
+[ljmet]: 42100 events processed. Processing run 1, event 324307
+[ljmet]: 42200 events processed. Processing run 1, event 324409
+[ljmet]: 42300 events processed. Processing run 1, event 324510
+[ljmet]: 42400 events processed. Processing run 1, event 333910
+[ljmet]: 42500 events processed. Processing run 1, event 334011
+[ljmet]: 42600 events processed. Processing run 1, event 334115
+[ljmet]: 42700 events processed. Processing run 1, event 336017
+[ljmet]: 42800 events processed. Processing run 1, event 336119
+[ljmet]: 42900 events processed. Processing run 1, event 336223
+[ljmet]: 43000 events processed. Processing run 1, event 340825
+[ljmet]: 43100 events processed. Processing run 1, event 340926
+[ljmet]: 43200 events processed. Processing run 1, event 341027
+[ljmet]: 43300 events processed. Processing run 1, event 393328
+[ljmet]: 43400 events processed. Processing run 1, event 393429
+[ljmet]: 43500 events processed. Processing run 1, event 393530
+[ljmet]: 43600 events processed. Processing run 1, event 405332
+[ljmet]: 43700 events processed. Processing run 1, event 405433
+[ljmet]: 43800 events processed. Processing run 1, event 405534
+[ljmet]: 43900 events processed. Processing run 1, event 419134
+[ljmet]: 44000 events processed. Processing run 1, event 419235
+[ljmet]: 44100 events processed. Processing run 1, event 419335
+[ljmet]: 44200 events processed. Processing run 1, event 420937
+[ljmet]: 44300 events processed. Processing run 1, event 421040
+[ljmet]: 44400 events processed. Processing run 1, event 421140
+[ljmet]: 44500 events processed. Processing run 1, event 420640
+[ljmet]: 44600 events processed. Processing run 1, event 420741
+[ljmet]: 44700 events processed. Processing run 1, event 420842
+[ljmet]: 44800 events processed. Processing run 1, event 430844
+[ljmet]: 44900 events processed. Processing run 1, event 430946
+[ljmet]: 45000 events processed. Processing run 1, event 431046
+[ljmet]: 45100 events processed. Processing run 1, event 433250
+[ljmet]: 45200 events processed. Processing run 1, event 433352
+[ljmet]: 45300 events processed. Processing run 1, event 433454
+[ljmet]: 45400 events processed. Processing run 1, event 434456
+[ljmet]: 45500 events processed. Processing run 1, event 434557
+[ljmet]: 45600 events processed. Processing run 1, event 434658
+[ljmet]: 45700 events processed. Processing run 1, event 811459
+[ljmet]: 45800 events processed. Processing run 1, event 811561
+[ljmet]: 45900 events processed. Processing run 1, event 811661
+[ljmet]: 46000 events processed. Processing run 1, event 811762
+[ljmet]: 46100 events processed. Processing run 1, event 811862
+[ljmet]: 46200 events processed. Processing run 1, event 811963
+[ljmet]: 46300 events processed. Processing run 1, event 812664
+[ljmet]: 46400 events processed. Processing run 1, event 812764
+[ljmet]: 46500 events processed. Processing run 1, event 812866
+[ljmet]: 46600 events processed. Processing run 1, event 421566
+[ljmet]: 46700 events processed. Processing run 1, event 421666
+[ljmet]: 46800 events processed. Processing run 1, event 421766
+[ljmet]: 46900 events processed. Processing run 1, event 583766
+[ljmet]: 47000 events processed. Processing run 1, event 583866
+[ljmet]: 47100 events processed. Processing run 1, event 583966
+[ljmet]: 47200 events processed. Processing run 1, event 584067
+[ljmet]: 47300 events processed. Processing run 1, event 584168
+[ljmet]: 47400 events processed. Processing run 1, event 584272
+[ljmet]: 47500 events processed. Processing run 1, event 593073
+[ljmet]: 47600 events processed. Processing run 1, event 593175
+[ljmet]: 47700 events processed. Processing run 1, event 593275
+[ljmet]: 47800 events processed. Processing run 1, event 611377
+[ljmet]: 47900 events processed. Processing run 1, event 611481
+[ljmet]: 48000 events processed. Processing run 1, event 611583
+[ljmet]: 48100 events processed. Processing run 1, event 728684
+[ljmet]: 48200 events processed. Processing run 1, event 728786
+[ljmet]: 48300 events processed. Processing run 1, event 728887
+[ljmet]: 48400 events processed. Processing run 1, event 840288
+[ljmet]: 48500 events processed. Processing run 1, event 840388
+[ljmet]: 48600 events processed. Processing run 1, event 840489
+[ljmet]: 48700 events processed. Processing run 1, event 612589
+[ljmet]: 48800 events processed. Processing run 1, event 612689
+[ljmet]: 48900 events processed. Processing run 1, event 612789
+[ljmet]: 49000 events processed. Processing run 1, event 444964
+[ljmet]: 49100 events processed. Processing run 1, event 445066
+[ljmet]: 49200 events processed. Processing run 1, event 445168
+[ljmet]: 49300 events processed. Processing run 1, event 456973
+[ljmet]: 49400 events processed. Processing run 1, event 457074
+[ljmet]: 49500 events processed. Processing run 1, event 457174
+[ljmet]: 49600 events processed. Processing run 1, event 442578
+[ljmet]: 49700 events processed. Processing run 1, event 442680
+[ljmet]: 49800 events processed. Processing run 1, event 442781
+[ljmet]: 49900 events processed. Processing run 1, event 444682
+[ljmet]: Selection
+     0 :         No selection      50000
+     1 :              Trigger        off
+     2 :       Primary vertex      50000
+     3 : HBHE noise and scraping filter      50000
+     4 : Laser calibration correction filter        off
+     5 :     Min tight lepton      24220
+     6 :     Max tight lepton      24204
+     7 :       Min tight muon      24204
+     8 :   Min tight electron      12892
+     9 :   Trigger consistent          0
+    10 :   Second lepton veto        off
+    11 :      One jet or more        off
+    12 :     Two jets or more        off
+    13 :   Three jets or more        off
+    14 : Min jet multiplicity        off
+    15 : Max jet multiplicity        off
+    16 :       Leading jet pt        off
+    17 :              Min MET      50000
+    18 :       1 btag or more        off
+    19 :       2 btag or more        off
+    20 :       3 btag or more        off
+    21 :             All cuts          0

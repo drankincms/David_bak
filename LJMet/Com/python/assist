@@ -1,0 +1,92 @@
+#!/usr/bin/env python
+
+import os
+import sys
+import re
+import fileinput
+import datetime
+import subprocess
+
+#import environment
+import assistCLParser
+import assistAction
+import assistCrab
+
+
+# banner
+def banner():
+    print '''
++-----------------------------------------------------------
+|
+| LJMET assistant
+|
+| Various routine tasks: batch submission, bookkeeping etc.
+|
+|
+| author: Gena Kukartsev
+|
+| (c) 2010
+|
++-----------------------------------------------------------
+    '''
+
+
+
+
+
+
+# globals
+legend = '[LJMet assistant]:'
+package = 'LJMet/Com'
+
+
+
+
+############################################################
+#
+# main function
+#
+
+banner()
+
+
+# command line argument parser
+clparser = assistCLParser.CLParser()
+
+
+# singleton action manager class
+actions = assistAction.assistAction.instance()
+
+
+# register actions
+assistCrab.assistCrab(clparser.parser)
+
+
+# parse command line options
+options = clparser.parse_args()
+options = clparser.get_options()
+
+
+# print all registered actions 
+if options.debug > 0:
+    actions.print_actions()
+
+
+
+if options.action == None:
+    print legend, 'no action specified, nothing to do'
+    clparser.print_usage()
+    sys.exit(-1)
+
+# perform actions
+elif (options.action in actions.action_dict):
+
+    # execute requested action (new)
+    actions.action_dict[options.action].configure(options)
+    actions.action_dict[options.action].execute(options)
+
+else:
+    print legend, 'unknown action:', options.action
+    clparser.print_usage()
+    sys.exit(-1)
+

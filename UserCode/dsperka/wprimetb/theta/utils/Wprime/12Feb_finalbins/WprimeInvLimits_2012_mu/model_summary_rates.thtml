@@ -1,0 +1,32 @@
+<p>Rates for all observables and processes as given by the 'nominal' templates. If errors are given, they are MC stat. uncertainties.</p>
+<table cellpadding="2" border="1">
+<tr><th>process / observable</th><th>mu_invmass_final</th></tr>
+<tr><td>ttbar</td><td>17858 +/- 112.07</td></tr>
+<tr><td>wjets</td><td>3909.1 +/- 57.814</td></tr>
+<tr><td><b>total background</b></td><td>21767 +/- 126.11</td></tr>
+<tr><td>wp1000</td><td>1761.7 +/- 6.5204</td></tr>
+<tr><td>wp1100</td><td>1829.7 +/- 6.9413</td></tr>
+<tr><td>wp1200</td><td>1817.9 +/- 6.4211</td></tr>
+<tr><td>wp1300</td><td>1745.9 +/- 6.5879</td></tr>
+<tr><td>wp1400</td><td>1670.6 +/- 6.3107</td></tr>
+<tr><td>wp1500</td><td>1587.8 +/- 6.1935</td></tr>
+<tr><td>wp1600</td><td>1488.2 +/- 6.0451</td></tr>
+<tr><td>wp1700</td><td>1403.8 +/- 5.7677</td></tr>
+<tr><td>wp1800</td><td>1327.8 +/- 5.8781</td></tr>
+<tr><td>wp1900</td><td>1258.8 +/- 5.7499</td></tr>
+<tr><td>wp2000</td><td>1184.2 +/- 5.553</td></tr>
+<tr><td>wp2100</td><td>1119.4 +/- 5.1475</td></tr>
+<tr><td>wp2200</td><td>1065.8 +/- 5.0038</td></tr>
+<tr><td>wp2300</td><td>1020.8 +/- 5.343</td></tr>
+<tr><td>wp2400</td><td>979.33 +/- 4.9027</td></tr>
+<tr><td>wp2500</td><td>953.68 +/- 4.8738</td></tr>
+<tr><td>wp2600</td><td>933.65 +/- 4.6572</td></tr>
+<tr><td>wp2700</td><td>923.58 +/- 4.7022</td></tr>
+<tr><td>wp2800</td><td>919.68 +/- 4.9136</td></tr>
+<tr><td>wp2900</td><td>919.36 +/- 4.7058</td></tr>
+<tr><td>wp3000</td><td>931.12 +/- 4.6765</td></tr>
+<tr><td>wp800</td><td>1634.4 +/- 6.2308</td></tr>
+<tr><td>wp900</td><td>1738.3 +/- 6.3499</td></tr>
+<tr><td><b>DATA</b></td><td>20639</td></tr>
+</table>
+

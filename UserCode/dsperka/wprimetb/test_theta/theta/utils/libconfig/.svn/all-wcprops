@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/public/theta/!svn/ver/185/tags/stable/libconfig
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/public/theta/!svn/ver/185/tags/stable/libconfig/scanner.h
+END
+parsectx.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/public/theta/!svn/ver/185/tags/stable/libconfig/parsectx.h
+END
+libconfigcpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/public/theta/!svn/ver/185/tags/stable/libconfig/libconfigcpp.cpp
+END
+libconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/public/theta/!svn/ver/185/tags/stable/libconfig/libconfig.h
+END
+scanctx.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/public/theta/!svn/ver/185/tags/stable/libconfig/scanctx.c
+END
+strbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/public/theta/!svn/ver/185/tags/stable/libconfig/strbuf.c
+END
+wincompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/public/theta/!svn/ver/185/tags/stable/libconfig/wincompat.h
+END
+scanctx.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/public/theta/!svn/ver/185/tags/stable/libconfig/scanctx.h
+END
+strbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/public/theta/!svn/ver/185/tags/stable/libconfig/strbuf.h
+END
+ac_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/public/theta/!svn/ver/185/tags/stable/libconfig/ac_config.h
+END
+grammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/public/theta/!svn/ver/185/tags/stable/libconfig/grammar.c
+END
+libconfig.h++
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/public/theta/!svn/ver/185/tags/stable/libconfig/libconfig.h++
+END
+scanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/public/theta/!svn/ver/185/tags/stable/libconfig/scanner.c
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/public/theta/!svn/ver/185/tags/stable/libconfig/grammar.h
+END
+libconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/public/theta/!svn/ver/185/tags/stable/libconfig/libconfig.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/public/theta/!svn/ver/185/tags/stable/libconfig/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/public/theta/!svn/ver/185/tags/stable/libconfig/CMakeLists.txt
+END

@@ -1,0 +1,170 @@
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected data, and background  events in the electron channel. 
+For the background samples, the expectation is computed
+corresponding to an integrated luminosity of $19521.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:el_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+{\bf Data} & 350374.0 & 277678.0 & 63050.0 & 9646.0 & 18175.0 & 2063.0   \\ \hline
+\multicolumn{6}{l}{\bf Background:}     \\ \hline
+$t\overline t$ &70341.9 & 27892.5 & 34561.0 & 7888.4 & 12383.4 & 1638.9  \\ 
+$tqb$ &2432.1 & 788.2 & 1409.9 & 234.0 & 478.9  & 71.8  \\ 
+$\overline{t}qb$ &1216.9 & 390.5 & 703.1 & 123.3 & 231.0  & 36.2  \\ 
+$tW$  &2612.8 & 1186.9 & 1266.3 & 159.5 & 433.7  & 48.6  \\ 
+$\overline{t}W$ &2646.4 & 1152.7 & 1290.9 & 202.7 & 413.6  & 58.3  \\ 
+$tb$ & 256.7 & 63.2 & 127.2 & 66.2 & 42.8 & 19.8    \\ 
+$\overline{t}b$ & 97.1 & 22.3 & 47.6 & 27.2 & 14.7 & 8.4    \\ 
+$W(\rightarrow)\ell\nu$+light jets &141178.5 & 136950.6 & 4212.1 & 15.8 & 874.0  & 0.0  \\ 
+$W(\rightarrow)\ell\nu$+c jets &65654.1 & 53544.4 & 11932.4 & 177.3 & 1959.9  & 35.6  \\ 
+$W(\rightarrow)\ell\nu$+b jets &7955.1 & 3759.3 & 3825.5 & 370.3 & 802.4  & 63.1  \\ 
+$Z/\gamma^*(\rightarrow\ell\ell$)+jets &19975.3 & 18408.2 & 1483.7 & 83.4 & 260.1  & 9.6 \\ 
+$WW$ &2144.6 & 1930.2 & 204.9 & 9.4 & 46.9  & 2.9 \\ 
+{\bf Total Background} &316157.6 & 246003.6 & 60889.7 & 9264.3 & 17883.9 & 1965.1 \\ \hline
+{\bf MC / Data} &0.902 & 0.886 & 0.966 & 0.96 & 0.984 & 0.953 \\ \hline
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+
+
+
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected signal events in the electron channel. 
+For the signal samples, the expectation is computed
+corresponding to an integrated luminosity of $19521.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:el_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+\multicolumn{6}{l}{\bf Signal:}     \\ \hline 
+$tb$ & 353.783 & 85.516 & 174.827 & 93.44 & 57.459 & 28.205    \\ 
+{\underline {\bf ${\PWpr}_R\rightarrow tb$}} & &  &  & & \\ 
+M(${\PWpr}_R=$) 800 GeV &5698.186 & 1326.751 & 2897.616 & 1473.819 & 1811.581 & 950.874   \\ 
+M(${\PWpr}_R=$) 900 GeV &3548.228 & 881.961 & 1806.413 & 859.854 & 1193.81 & 591.377   \\ 
+M(${\PWpr}_R=$) 1000 GeV &2261.472 & 600.076 & 1147.878 & 513.518 & 780.328 & 368.199   \\ 
+M(${\PWpr}_R=$) 1100 GeV &1526.019 & 424.663 & 776.186 & 325.17 & 542.883 & 237.136   \\ 
+M(${\PWpr}_R=$) 1200 GeV &1003.363 & 293.846 & 511.061 & 198.455 & 362.849 & 147.141   \\ 
+M(${\PWpr}_R=$) 1300 GeV &660.832 & 202.77 & 335.092 & 122.97 & 240.032 & 91.764   \\ 
+M(${\PWpr}_R=$) 1400 GeV &438.293 & 140.875 & 221.437 & 75.98 & 159.077 & 56.922   \\ 
+M(${\PWpr}_R=$) 1500 GeV &292.644 & 96.538 & 147.479 & 48.627 & 106.06 & 36.205   \\ 
+M(${\PWpr}_R=$) 1600 GeV &197.192 & 67.927 & 99.078 & 30.188 & 71.296 & 22.312   \\ 
+M(${\PWpr}_R=$) 1700 GeV &133.312 & 46.905 & 66.841 & 19.566 & 47.641 & 14.395   \\ 
+M(${\PWpr}_R=$) 1800 GeV &90.722 & 32.764 & 45.221 & 12.737 & 32.169 & 9.263   \\ 
+M(${\PWpr}_R=$) 1900 GeV &61.703 & 22.921 & 30.397 & 8.385 & 21.404 & 6.014   \\ 
+M(${\PWpr}_R=$) 2000 GeV &42.509 & 15.992 & 20.917 & 5.601 & 14.577 & 3.978   \\ 
+M(${\PWpr}_R=$) 2100 GeV &29.324 & 11.194 & 14.376 & 3.753 & 9.929 & 2.613   \\ 
+M(${\PWpr}_R=$) 2200 GeV &20.356 & 7.849 & 9.979 & 2.529 & 6.823 & 1.741   \\ 
+M(${\PWpr}_R=$) 2300 GeV &14.283 & 5.522 & 6.951 & 1.809 & 4.683 & 1.233   \\ 
+M(${\PWpr}_R=$) 2500 GeV &7.252 & 2.817 & 3.5 & 0.935 & 2.305 & 0.617   \\ 
+M(${\PWpr}_R=$) 2400 GeV &10.142 & 3.928 & 4.919 & 1.295 & 3.269 & 0.87   \\ 
+M(${\PWpr}_R=$) 2600 GeV &5.264 & 2.038 & 2.535 & 0.691 & 1.646 & 0.454   \\ 
+M(${\PWpr}_R=$) 2700 GeV &3.847 & 1.466 & 1.855 & 0.525 & 1.19 & 0.339   \\ 
+M(${\PWpr}_R=$) 2800 GeV &2.859 & 1.07 & 1.387 & 0.402 & 0.881 & 0.254   \\ 
+M(${\PWpr}_R=$) 2900 GeV &2.163 & 0.797 & 1.045 & 0.322 & 0.657 & 0.204   \\ 
+M(${\PWpr}_R=$) 3000 GeV &1.662 & 0.597 & 0.808 & 0.257 & 0.507 & 0.16   \\ 
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected data, and background  events in the muon channel. 
+For the background samples, the expectation is computed
+corresponding to an integrated luminosity of $19521.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:mu_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+{\bf Data} & 327839.0 & 255019.0 & 62955.0 & 9865.0 & 18558.0 & 2081.0   \\ \hline
+\multicolumn{6}{l}{\bf Background:}     \\ \hline
+$t\overline t$ &72699.3 & 29159.3 & 35348.8 & 8191.2 & 12610.4 & 1650.3  \\ 
+$tqb$ &2566.0 & 829.4 & 1485.8 & 250.8 & 502.6  & 73.7  \\ 
+$\overline{t}qb$ &1355.7 & 444.3 & 788.8 & 122.6 & 244.8  & 40.6  \\ 
+$tW$  &2742.6 & 1248.7 & 1314.2 & 179.7 & 421.5  & 55.6  \\ 
+$\overline{t}W$ &2741.1 & 1218.3 & 1330.5 & 192.4 & 439.1  & 57.7  \\ 
+$tb$ & 266.4 & 60.0 & 133.9 & 72.5 & 41.4 & 22.8    \\ 
+$\overline{t}b$ & 121.2 & 29.5 & 62.0 & 29.7 & 21.9 & 9.4    \\ 
+$W(\rightarrow)\ell\nu$+light jets &147257.8 & 143022.5 & 4188.9 & 46.4 & 788.4  & 0.0  \\ 
+$W(\rightarrow)\ell\nu$+c jets &67761.0 & 56156.0 & 11460.4 & 144.6 & 2126.2  & 0.0  \\ 
+$W(\rightarrow)\ell\nu$+b jets &8884.3 & 4348.2 & 4047.8 & 488.3 & 789.6  & 62.4  \\ 
+$Z/\gamma^*(\rightarrow\ell\ell$)+jets &19044.8 & 17475.0 & 1497.3 & 72.5 & 274.9  & 16.7 \\ 
+$WW$ &2255.1 & 2030.0 & 218.5 & 6.7 & 46.7  & 1.5 \\ 
+{\bf Total Background} &327307.8 & 255931.7 & 61680.9 & 9695.2 & 18244.2 & 1958.5 \\ \hline
+{\bf MC / Data} &0.998 & 1.004 & 0.98 & 0.983 & 0.983 & 0.941 \\ \hline
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}
+
+
+
+\begin{table}[!h!tb]
+\begin{center}
+\small
+      \caption{
+	Number of selected signal events in the muon channel. 
+For the signal samples, the expectation is computed
+corresponding to an integrated luminosity of $19521.0 \pbinv$. ``Final selection'' refers to the additional cuts of $p_{T}^{top}>$ 85, $p_{T}^{jet1,jet2}>$140, and 130$<m_{top}<$210. 
+\label{tab:mu_cut_flow_bkg}
+        }
+\begin{tabular}{l|c|c|c|c|c|c}
+\hline
+Process    & \multicolumn{6}{c}{Number of Events} \\ \hline\hline
+ & \multicolumn{4}{c|}{Preselection} & \multicolumn{2}{c}{Final Selection} \\ 
+ & $\geq$ 0 b-tags & = 0 b-tags & = 1 b-tags 
+ & = 2 b-tags & = 1 b-tags  & = 2 b-tags \\ \hline
+\multicolumn{6}{l}{\bf Signal:}     \\ \hline 
+$tb$ & 387.668 & 89.541 & 195.906 & 102.222 & 63.292 & 32.255    \\ 
+{\underline {\bf ${\PWpr}_R\rightarrow tb$}} & &  &  & & \\ 
+M(${\PWpr}_R=$) 800 GeV &5682.813 & 1333.421 & 2899.237 & 1450.155 & 1827.432 & 957.008   \\ 
+M(${\PWpr}_R=$) 900 GeV &3509.477 & 883.325 & 1785.729 & 840.424 & 1190.561 & 587.037   \\ 
+M(${\PWpr}_R=$) 1000 GeV &2179.292 & 583.784 & 1110.611 & 484.897 & 763.032 & 352.183   \\ 
+M(${\PWpr}_R=$) 1100 GeV &1444.084 & 405.669 & 732.967 & 305.447 & 512.064 & 223.568   \\ 
+M(${\PWpr}_R=$) 1200 GeV &938.637 & 278.068 & 476.129 & 184.441 & 336.644 & 136.99   \\ 
+M(${\PWpr}_R=$) 1300 GeV &605.631 & 189.173 & 305.66 & 110.798 & 217.403 & 82.623   \\ 
+M(${\PWpr}_R=$) 1400 GeV &394.124 & 127.512 & 198.665 & 67.947 & 141.591 & 50.635   \\ 
+M(${\PWpr}_R=$) 1500 GeV &259.75 & 87.588 & 129.869 & 42.294 & 92.504 & 31.094   \\ 
+M(${\PWpr}_R=$) 1600 GeV &171.693 & 59.92 & 85.125 & 26.648 & 59.808 & 19.507   \\ 
+M(${\PWpr}_R=$) 1700 GeV &114.75 & 41.362 & 56.621 & 16.767 & 39.624 & 11.995   \\ 
+M(${\PWpr}_R=$) 1800 GeV &77.173 & 28.402 & 37.983 & 10.788 & 26.283 & 7.695   \\ 
+M(${\PWpr}_R=$) 1900 GeV &52.672 & 19.819 & 25.756 & 7.096 & 17.609 & 4.983   \\ 
+M(${\PWpr}_R=$) 2000 GeV &36.0 & 13.85 & 17.461 & 4.689 & 11.776 & 3.231   \\ 
+M(${\PWpr}_R=$) 2100 GeV &24.696 & 9.591 & 11.882 & 3.223 & 7.885 & 2.203   \\ 
+M(${\PWpr}_R=$) 2200 GeV &17.25 & 6.778 & 8.243 & 2.23 & 5.392 & 1.486   \\ 
+M(${\PWpr}_R=$) 2300 GeV &12.103 & 4.742 & 5.828 & 1.533 & 3.753 & 1.001   \\ 
+M(${\PWpr}_R=$) 2500 GeV &6.194 & 2.42 & 2.951 & 0.823 & 1.842 & 0.527   \\ 
+M(${\PWpr}_R=$) 2400 GeV &8.6 & 3.397 & 4.083 & 1.12 & 2.591 & 0.725   \\ 
+M(${\PWpr}_R=$) 2600 GeV &4.508 & 1.74 & 2.155 & 0.612 & 1.336 & 0.382   \\ 
+M(${\PWpr}_R=$) 2700 GeV &3.349 & 1.28 & 1.595 & 0.474 & 0.979 & 0.294   \\ 
+M(${\PWpr}_R=$) 2800 GeV &2.513 & 0.946 & 1.201 & 0.366 & 0.734 & 0.226   \\ 
+M(${\PWpr}_R=$) 2900 GeV &1.905 & 0.697 & 0.917 & 0.291 & 0.556 & 0.18   \\ 
+M(${\PWpr}_R=$) 3000 GeV &1.491 & 0.532 & 0.72 & 0.239 & 0.434 & 0.145   \\ 
+\hline
+\end{tabular}
+\normalsize
+\end{center}
+\end{table}

@@ -1,0 +1,959 @@
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets/WJets_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph.root
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg/TTbar_Powheg_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t/T_t_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t/T_t_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t/Tbar_t_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW/T_tW_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW/Tbar_tW_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s/T_s_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s/Tbar_s_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW/WW_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW/WW_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW/WW_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW/WW_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW/WW_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50/ZJets_M50_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ/ZZ_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ/ZZ_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ/ZZ_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ/ZZ_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ/ZZ_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESUP/WJets_JESUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_3.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_4.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_5.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_6.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_7.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_8.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESUP/TTbar_Madgraph_JESUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESUP/TTbar_Powheg_JESUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JESUP/T_t_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JESUP/T_t_JESUP_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t_JESUP/Tbar_t_JESUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW_JESUP/T_tW_JESUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW_JESUP/Tbar_tW_JESUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s_JESUP/T_s_JESUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s_JESUP/Tbar_s_JESUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESUP/WW_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESUP/WW_JESUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESUP/WW_JESUP_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESUP/WW_JESUP_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESUP/WW_JESUP_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESUP/ZJets_M50_JESUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESUP/ZZ_JESUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESUP/ZZ_JESUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESUP/ZZ_JESUP_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESUP/ZZ_JESUP_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESUP/ZZ_JESUP_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JESDOWN/WJets_JESDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_3.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_4.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_5.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_6.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_7.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_8.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JESDOWN/TTbar_Madgraph_JESDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JESDOWN/TTbar_Powheg_JESDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JESDOWN/T_t_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JESDOWN/T_t_JESDOWN_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t_JESDOWN/Tbar_t_JESDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW_JESDOWN/T_tW_JESDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW_JESDOWN/Tbar_tW_JESDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s_JESDOWN/T_s_JESDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s_JESDOWN/Tbar_s_JESDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESDOWN/WW_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESDOWN/WW_JESDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESDOWN/WW_JESDOWN_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESDOWN/WW_JESDOWN_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JESDOWN/WW_JESDOWN_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JESDOWN/ZJets_M50_JESDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESDOWN/ZZ_JESDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESDOWN/ZZ_JESDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESDOWN/ZZ_JESDOWN_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESDOWN/ZZ_JESDOWN_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JESDOWN/ZZ_JESDOWN_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JESDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERUP/WJets_JERUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_3.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_4.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_5.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_6.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_7.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_8.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERUP/TTbar_Madgraph_JERUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERUP/TTbar_Powheg_JERUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JERUP/T_t_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JERUP/T_t_JERUP_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t_JERUP/Tbar_t_JERUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW_JERUP/T_tW_JERUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW_JERUP/Tbar_tW_JERUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s_JERUP/T_s_JERUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s_JERUP/Tbar_s_JERUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERUP/WW_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERUP/WW_JERUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERUP/WW_JERUP_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERUP/WW_JERUP_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERUP/WW_JERUP_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERUP/ZJets_M50_JERUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERUP/ZZ_JERUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERUP/ZZ_JERUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERUP/ZZ_JERUP_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERUP/ZZ_JERUP_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERUP/ZZ_JERUP_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_JERDOWN/WJets_JERDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_3.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_4.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_5.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_6.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_7.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_8.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_JERDOWN/TTbar_Madgraph_JERDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_JERDOWN/TTbar_Powheg_JERDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JERDOWN/T_t_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_JERDOWN/T_t_JERDOWN_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t_JERDOWN/Tbar_t_JERDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW_JERDOWN/T_tW_JERDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW_JERDOWN/Tbar_tW_JERDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s_JERDOWN/T_s_JERDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s_JERDOWN/Tbar_s_JERDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERDOWN/WW_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERDOWN/WW_JERDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERDOWN/WW_JERDOWN_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERDOWN/WW_JERDOWN_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_JERDOWN/WW_JERDOWN_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_JERDOWN/ZJets_M50_JERDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERDOWN/ZZ_JERDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERDOWN/ZZ_JERDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERDOWN/ZZ_JERDOWN_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERDOWN/ZZ_JERDOWN_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_JERDOWN/ZZ_JERDOWN_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_JERDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGUP/WJets_BTAGUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_3.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_4.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_5.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_6.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_7.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_8.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGUP/TTbar_Madgraph_BTAGUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGUP/TTbar_Powheg_BTAGUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_BTAGUP/T_t_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_BTAGUP/T_t_BTAGUP_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t_BTAGUP/Tbar_t_BTAGUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW_BTAGUP/T_tW_BTAGUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW_BTAGUP/Tbar_tW_BTAGUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s_BTAGUP/T_s_BTAGUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s_BTAGUP/Tbar_s_BTAGUP_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGUP/WW_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGUP/WW_BTAGUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGUP/WW_BTAGUP_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGUP/WW_BTAGUP_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGUP/WW_BTAGUP_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGUP/ZJets_M50_BTAGUP_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGUP.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGUP/ZZ_BTAGUP_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGUP/ZZ_BTAGUP_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGUP/ZZ_BTAGUP_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGUP/ZZ_BTAGUP_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGUP/ZZ_BTAGUP_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGUP.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGUP.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGUP.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_20.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_21.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_22.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_23.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_24.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_25.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_26.root
+hadd Source file 20: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_27.root
+hadd Source file 21: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_28.root
+hadd Source file 22: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_29.root
+hadd Source file 23: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_3.root
+hadd Source file 24: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_4.root
+hadd Source file 25: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_5.root
+hadd Source file 26: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_6.root
+hadd Source file 27: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_7.root
+hadd Source file 28: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_8.root
+hadd Source file 29: /uscms_data/d2/dsperka/8TeV/Samples/29May/WJets_BTAGDOWN/WJets_BTAGDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WJets_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_14.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_15.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_16.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_17.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_18.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_19.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_2.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_3.root
+hadd Source file 14: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_4.root
+hadd Source file 15: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_5.root
+hadd Source file 16: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_6.root
+hadd Source file 17: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_7.root
+hadd Source file 18: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_8.root
+hadd Source file 19: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Madgraph_BTAGDOWN/TTbar_Madgraph_BTAGDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Madgraph_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_2.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_3.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_4.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_5.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_6.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_7.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_8.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_Powheg_BTAGDOWN/TTbar_Powheg_BTAGDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_Powheg_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_BTAGDOWN/T_t_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_t_BTAGDOWN/T_t_BTAGDOWN_2.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_t_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_t_BTAGDOWN/Tbar_t_BTAGDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_t_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_tW_BTAGDOWN/T_tW_BTAGDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_tW_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_tW_BTAGDOWN/Tbar_tW_BTAGDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_tW_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/T_s_BTAGDOWN/T_s_BTAGDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/T_s_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/Tbar_s_BTAGDOWN/Tbar_s_BTAGDOWN_1.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/Tbar_s_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGDOWN/WW_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGDOWN/WW_BTAGDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGDOWN/WW_BTAGDOWN_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGDOWN/WW_BTAGDOWN_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/WW_BTAGDOWN/WW_BTAGDOWN_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/WW_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_10.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_11.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_12.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_13.root
+hadd Source file 6: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_2.root
+hadd Source file 7: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_3.root
+hadd Source file 8: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_4.root
+hadd Source file 9: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_5.root
+hadd Source file 10: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_6.root
+hadd Source file 11: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_7.root
+hadd Source file 12: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_8.root
+hadd Source file 13: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZJets_M50_BTAGDOWN/ZJets_M50_BTAGDOWN_9.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZJets_M50_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGDOWN.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGDOWN/ZZ_BTAGDOWN_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGDOWN/ZZ_BTAGDOWN_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGDOWN/ZZ_BTAGDOWN_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGDOWN/ZZ_BTAGDOWN_4.root
+hadd Source file 5: /uscms_data/d2/dsperka/8TeV/Samples/29May/ZZ_BTAGDOWN/ZZ_BTAGDOWN_5.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGDOWN.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGDOWN.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/ZZ_BTAGDOWN.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingdown.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_matchingdown/TTbar_matchingdown_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_matchingdown/TTbar_matchingdown_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_matchingdown/TTbar_matchingdown_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingdown.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingdown.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingdown.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingup.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_matchingup/TTbar_matchingup_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_matchingup/TTbar_matchingup_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_matchingup/TTbar_matchingup_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingup.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingup.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_matchingup.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaledown.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaledown/TTbar_scaledown_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaledown/TTbar_scaledown_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaledown/TTbar_scaledown_3.root
+hadd Source file 4: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaledown/TTbar_scaledown_4.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaledown.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaledown.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaledown.root:/WprimeSelector
+hadd Target file: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaleup.root
+hadd Source file 1: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaleup/TTbar_scaleup_1.root
+hadd Source file 2: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaleup/TTbar_scaleup_2.root
+hadd Source file 3: /uscms_data/d2/dsperka/8TeV/Samples/29May/TTbar_scaleup/TTbar_scaleup_3.root
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaleup.root:/
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaleup.root:/histos
+hadd Target path: /uscms_data/d2/dsperka/8TeV/Samples/29May_All/TTbar_scaleup.root:/WprimeSelector
